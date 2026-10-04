@@ -1,0 +1,28 @@
+services:
+  - type: web
+    name: edu-tutor-api
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: edu-tutor-db
+          property: connectionString
+      - key: FRONTEND_ORIGINS
+        value: https://education-ai-tutor.netlify.app
+      - key: ALOC_API_KEY
+        sync: false
+      - key: ALOC_BASE_URL
+        value: https://dev.aloc.com.ng
+      - key: ALOC_KEY_HEADER
+        value: X-API-Key
+      - key: ALOC_QUESTIONS_PATH
+        value: /api/v1/questions
+      - key: ALOC_LICENSE
+        sync: false
+
+databases:
+  - name: edu-tutor-db
+    plan: free

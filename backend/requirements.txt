@@ -5,6 +5,7 @@ pydantic==2.10.4
 httpx==0.28.1
 pytest==8.3.4
 python-dotenv==1.0.1
+psycopg2-binary==2.9.10  # PostgreSQL driver for Render/prod (dev uses SQLite)
 # optional prod extras (install later, slow on low bandwidth):
 # python-jose==3.3.0
 # boto3==1.35.90
