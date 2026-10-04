@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Education AI Tutor — Design System Preview</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  :root { --brand:#0E7C5B; --brand-dark:#0A5C44; --info:#1D5BD8; --accent:#E85D04; --ink:#14211C; --muted:#5F6F68; --bg:#F6F8F7; --card:#FFFFFF; --line:#E3E9E6; }
+  body { background:var(--bg); color:var(--ink); font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; }
+  .btn-primary { background:var(--brand); color:#fff; border-radius:10px; padding:12px 16px; font-weight:700; width:100%; }
+  .btn-primary:active { background:var(--brand-dark); }
+  .btn-ghost { border:1px solid var(--line); border-radius:10px; padding:12px 16px; font-weight:600; width:100%; background:#fff; }
+  .chip { border:1px solid var(--line); border-radius:999px; padding:6px 12px; font-size:13px; background:#fff; }
+  .chip.on { background:var(--ink); color:#fff; border-color:var(--ink); }
+  .skeleton { background:linear-gradient(90deg,#eee,#e2e2e2,#eee); background-size:200% 100%; animation:sh 1.2s infinite; border-radius:8px; }
+  @keyframes sh { to { background-position:-200% 0; } }
+  .frame-mobile { width:360px; max-width:100%; border:2px solid #111; border-radius:24px; overflow:hidden; background:#fff; }
+  .ring { width:64px; height:64px; border-radius:999px; background:conic-gradient(var(--brand) 74%, #E7EEEA 0); display:grid; place-items:center; }
+  .ring span { background:#fff; width:48px; height:48px; border-radius:999px; display:grid; place-items:center; font-weight:800; }
+</style>
+</head>
+<body class="p-4 md:p-10 max-w-6xl mx-auto">
+<header class="mb-6">
+  <p class="text-sm font-bold tracking-wide" style="color:var(--brand)">EDUCATION AI TUTOR • DESIGN SYSTEM v0.1</p>
+  <h1 class="text-3xl md:text-4xl font-extrabold mt-1">Simple, readable, low-data. 360px → desktop.</h1>
+  <p class="mt-2" style="color:var(--muted)">Next.js + React + Tailwind • Text-first • English / Pidgin / Yoruba / Hausa / Igbo • Voice optional • Data Saver</p>
+  <div class="flex gap-2 mt-4 flex-wrap">
+    <span class="chip on">360px base</span><span class="chip">768px tablet</span><span class="chip">1280px desktop</span>
+    <span class="chip">16–18px body</span><span class="chip">&lt;200KB JS</span><span class="chip">Data Saver</span>
+  </div>
+</header>
+
+<!-- Tokens -->
+<section class="grid md:grid-cols-3 gap-4 mb-8">
+  <div class="card p-5"><h3 class="font-bold mb-3">Colors</h3>
+    <div class="flex gap-2"><div class="h-12 flex-1 rounded-lg" style="background:var(--brand)"></div><div class="h-12 flex-1 rounded-lg" style="background:var(--info)"></div><div class="h-12 flex-1 rounded-lg" style="background:var(--accent)"></div><div class="h-12 flex-1 rounded-lg border" style="background:#fff"></div></div>
+    <p class="text-sm mt-3" style="color:var(--muted)">Brand #0E7C5B • Info #1D5BD8 • Accent #E85D04 • Ink #14211C • Line #E3E9E6</p>
+  </div>
+  <div class="card p-5"><h3 class="font-bold mb-3">Type & spacing</h3>
+    <p class="text-lg font-bold">Lesson title 20px / 700</p><p class="text-base">Body 16–18px, line-height 1.6</p><p class="text-sm" style="color:var(--muted)">Small 13–14px • 4pt spacing • Radius 8–12px • System fonts only</p>
+  </div>
+  <div class="card p-5"><h3 class="font-bold mb-3">Language + Data</h3>
+    <div class="flex gap-2 flex-wrap"><span class="chip on">English</span><span class="chip">Pidgin</span><span class="chip">Yoruba</span><span class="chip">Hausa</span><span class="chip">Igbo</span></div>
+    <p class="text-sm mt-3">Academic terms stay in English. 🎙️ Voice input optional — text always works.</p>
+    <div class="mt-2 text-sm font-semibold">Data Saver: ON • text-first, no autoplay</div>
+  </div>
+</section>
+
+<!-- Components + phone -->
+<section class="grid md:grid-cols-2 gap-6 mb-8">
+  <div class="frame-mobile mx-auto">
+    <div class="p-4 border-b flex justify-between items-center"><b>Learn</b><span class="text-sm font-bold" style="color:var(--brand)">● Data Saver</span></div>
+    <div class="p-4 space-y-3">
+      <div class="card p-4"><p class="text-xs font-bold" style="color:var(--brand)">MATHEMATICS • ALGEBRA</p><p class="font-bold text-lg">Simultaneous Equations</p><p class="text-sm" style="color:var(--muted)">Elimination method in 3 steps…</p>
+        <div class="flex gap-2 mt-3"><button class="btn-primary" style="width:auto">Continue</button><button class="btn-ghost" style="width:auto">🎙️ Ask</button></div></div>
+      <div class="card p-4"><p class="font-bold text-sm mb-2">Solve: 2x + y = 7, x − y = 2</p>
+        <button class="btn-ghost mb-2">A. x=3, y=1</button><button class="btn-ghost mb-2">B. x=2, y=3</button>
+        <div class="p-3 rounded-lg text-sm" style="background:#FFF4E8;border:1px solid #F5C99B">💡 Hint: add both equations to eliminate y. Try again — no wahala.</div></div>
+      <div class="card p-4 flex items-center gap-3"><div class="ring"><span>74%</span></div><div><b>WAEC Maths</b><p class="text-sm" style="color:var(--muted)">Strong: Algebra • Needs: Geometry</p></div></div>
+      <div class="grid grid-cols-5 text-center text-xs border-t pt-3"><span class="font-bold" style="color:var(--brand)">Learn</span><span>Practice</span><span>Exam</span><span>Ask AI</span><span>Revise</span></div>
+    </div>
+  </div>
+  <div class="space-y-4">
+    <div class="card p-5"><h3 class="font-bold mb-2">QuestionCard + HintBox</h3><p class="text-sm mb-2">MCQ / theory with instant feedback per mistake type: minor → hint+retry, conceptual → re-teach, repeated → prerequisite.</p>
+      <div class="p-3 rounded-lg text-sm" style="background:#EAF4EF;border:1px solid #BFE0D2">✅ Correct — you eliminated y well. Next: harder exam-level.</div></div>
+    <div class="card p-5"><h3 class="font-bold mb-2">Inputs & voice (optional)</h3><input class="w-full border rounded-lg p-3 mb-2" placeholder="Ask AI… e.g. Explain photosynthesis in Pidgin" /><div class="flex gap-2"><button class="btn-primary">Send</button><button class="btn-ghost">🎙️ Voice (optional)</button></div></div>
+    <div class="card p-5"><h3 class="font-bold mb-2">SyllabusTree + MockTimer</h3><p class="text-sm">Maths → Algebra → Simultaneous Equations → Lesson → Practice → Assessment</p><p class="text-sm font-bold mt-2" style="color:var(--accent)">⏱ JAMB Mock 01:24:36 remaining • Auto-submit on time</p></div>
+  </div>
+</section>
+
+<!-- States -->
+<section class="mb-8"><h2 class="text-xl font-extrabold mb-3">Required states (every async screen)</h2>
+<div class="grid md:grid-cols-4 gap-4">
+  <div class="card p-4"><b>Loading</b><div class="skeleton h-4 mt-3"></div><div class="skeleton h-4 mt-2 w-2/3"></div><p class="text-sm mt-2" style="color:var(--muted)">Skeleton, no spinner wall</p></div>
+  <div class="card p-4"><b>Empty</b><p class="text-4xl mt-2">📭</p><p class="text-sm">No revision items. <u>Start practice</u></p></div>
+  <div class="card p-4"><b>Error</b><p class="text-4xl mt-2">⚠️</p><p class="text-sm">Network fail. <button class="underline font-bold">Retry</button></p></div>
+  <div class="card p-4"><b>Offline</b><p class="text-4xl mt-2">📴</p><p class="text-sm">Cached lesson available. Attempts queue & sync to FastAPI later.</p></div>
+</div></section>
+
+<section class="card p-5 mb-10"><h2 class="font-extrabold mb-2">Responsive & low-bandwidth rules</h2>
+<ul class="text-sm list-disc ml-5 space-y-1"><li>360px: single column, bottom nav. Desktop: max-width content + sidebar.</li><li>Images lazy + low-res placeholder from Cloudflare R2. Video never required.</li><li>Budgets: lesson &lt;50KB text, 30-min session &lt;2MB on Data Saver.</li><li>PostgreSQL = record; FastAPI = API + SSE streaming; R2 presigned URLs for uploads.</li></ul></section>
+<footer class="text-sm pb-10" style="color:var(--muted)">Preview only — implement in Next.js + Tailwind with same tokens. Resize window 360px → desktop to test.</footer>
+</body>
+</html>

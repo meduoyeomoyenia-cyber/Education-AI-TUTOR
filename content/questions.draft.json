@@ -1,0 +1,5762 @@
+[
+ {
+  "topic": "Number Bases",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Number Bases (Mathematics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Algebra: Simultaneous Equations",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Algebra: Simultaneous Equations (Mathematics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Geometry: Angles & Triangles",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Geometry: Angles & Triangles (Mathematics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trigonometry",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Trigonometry (Mathematics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Statistics",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Statistics (Mathematics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Number Bases",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Number Bases (Mathematics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Algebra: Simultaneous Equations",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Algebra: Simultaneous Equations (Mathematics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Geometry: Angles & Triangles",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Geometry: Angles & Triangles (Mathematics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trigonometry",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Trigonometry (Mathematics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Statistics",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Statistics (Mathematics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Number Bases",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Number Bases (Mathematics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Algebra: Simultaneous Equations",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Algebra: Simultaneous Equations (Mathematics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Geometry: Angles & Triangles",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Geometry: Angles & Triangles (Mathematics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trigonometry",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Trigonometry (Mathematics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Statistics",
+  "subject": "Mathematics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Statistics (Mathematics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Comprehension",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Comprehension (English Language WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Lexis: Synonyms & Antonyms (English Language WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Grammar: Concord",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Grammar: Concord (English Language WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Oral Forms",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Oral Forms (English Language WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Essay Writing",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Essay Writing (English Language WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Comprehension",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Comprehension (English Language WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Lexis: Synonyms & Antonyms (English Language WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Grammar: Concord",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Grammar: Concord (English Language WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Oral Forms",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Oral Forms (English Language WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Essay Writing",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Essay Writing (English Language WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Comprehension",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Comprehension (English Language WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Lexis: Synonyms & Antonyms (English Language WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Grammar: Concord",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Grammar: Concord (English Language WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Oral Forms",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Oral Forms (English Language WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Essay Writing",
+  "subject": "English Language",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Essay Writing (English Language WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Motion",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Motion (Physics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Waves",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Waves (Physics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electricity",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Electricity (Physics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Heat",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Heat (Physics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Optics",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Optics (Physics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Motion",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Motion (Physics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Waves",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Waves (Physics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electricity",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Electricity (Physics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Heat",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Heat (Physics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Optics",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Optics (Physics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Motion",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Motion (Physics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Waves",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Waves (Physics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electricity",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Electricity (Physics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Heat",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Heat (Physics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Optics",
+  "subject": "Physics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Optics (Physics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Acids and Bases",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Acids and Bases (Chemistry WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Periodic Table",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Periodic Table (Chemistry WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electrolysis",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Electrolysis (Chemistry WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Organic Chemistry Intro",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Organic Chemistry Intro (Chemistry WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Stoichiometry",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Stoichiometry (Chemistry WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Acids and Bases",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Acids and Bases (Chemistry WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Periodic Table",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Periodic Table (Chemistry WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electrolysis",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Electrolysis (Chemistry WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Organic Chemistry Intro",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Organic Chemistry Intro (Chemistry WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Stoichiometry",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Stoichiometry (Chemistry WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Acids and Bases",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Acids and Bases (Chemistry WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Periodic Table",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Periodic Table (Chemistry WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electrolysis",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Electrolysis (Chemistry WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Organic Chemistry Intro",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Organic Chemistry Intro (Chemistry WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Stoichiometry",
+  "subject": "Chemistry",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Stoichiometry (Chemistry WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Cell Biology",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Cell Biology (Biology WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Photosynthesis",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Photosynthesis (Biology WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inheritance",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Inheritance (Biology WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Ecology",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Ecology (Biology WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Transport in Plants",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Transport in Plants (Biology WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Cell Biology",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Cell Biology (Biology WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Photosynthesis",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Photosynthesis (Biology WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inheritance",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Inheritance (Biology WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Ecology",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Ecology (Biology WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Transport in Plants",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Transport in Plants (Biology WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Cell Biology",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Cell Biology (Biology WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Photosynthesis",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Photosynthesis (Biology WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inheritance",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Inheritance (Biology WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Ecology",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Ecology (Biology WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Transport in Plants",
+  "subject": "Biology",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Transport in Plants (Biology WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Map Reading",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Map Reading (Geography WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Weather & Climate",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Weather & Climate (Geography WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Rocks",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Rocks (Geography WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Population",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Population (Geography WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Agriculture",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Agriculture (Geography WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Map Reading",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Map Reading (Geography WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Weather & Climate",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Weather & Climate (Geography WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Rocks",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Rocks (Geography WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Population",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Population (Geography WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Agriculture",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Agriculture (Geography WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Map Reading",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Map Reading (Geography WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Weather & Climate",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Weather & Climate (Geography WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Rocks",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Rocks (Geography WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Population",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Population (Geography WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Agriculture",
+  "subject": "Geography",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Agriculture (Geography WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Citizenship",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Citizenship (Civic Education WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Democracy (Civic Education WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Human Rights",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Human Rights (Civic Education WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drug Abuse",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Drug Abuse (Civic Education WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Values",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate National Values (Civic Education WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Citizenship",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Citizenship (Civic Education WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Democracy (Civic Education WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Human Rights",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Human Rights (Civic Education WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drug Abuse",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Drug Abuse (Civic Education WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Values",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate National Values (Civic Education WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Citizenship",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Citizenship (Civic Education WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Democracy (Civic Education WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Human Rights",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Human Rights (Civic Education WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drug Abuse",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Drug Abuse (Civic Education WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Values",
+  "subject": "Civic Education",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate National Values (Civic Education WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Word Processing",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Word Processing (Computer Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Internet Basics",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Internet Basics (Computer Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Programming Intro",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Programming Intro (Computer Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Data Representation",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Data Representation (Computer Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Spreadsheets",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Spreadsheets (Computer Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Word Processing",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Word Processing (Computer Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Internet Basics",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Internet Basics (Computer Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Programming Intro",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Programming Intro (Computer Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Data Representation",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Data Representation (Computer Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Spreadsheets",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Spreadsheets (Computer Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Word Processing",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Word Processing (Computer Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Internet Basics",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Internet Basics (Computer Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Programming Intro",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Programming Intro (Computer Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Data Representation",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Data Representation (Computer Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Spreadsheets",
+  "subject": "Computer Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Spreadsheets (Computer Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Demand & Supply",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Demand & Supply (Economics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inflation",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Inflation (Economics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Money & Banking",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Money & Banking (Economics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Market Structures",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Market Structures (Economics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Income",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate National Income (Economics WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Demand & Supply",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Demand & Supply (Economics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inflation",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Inflation (Economics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Money & Banking",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Money & Banking (Economics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Market Structures",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Market Structures (Economics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Income",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate National Income (Economics WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Demand & Supply",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Demand & Supply (Economics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inflation",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Inflation (Economics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Money & Banking",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Money & Banking (Economics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Market Structures",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Market Structures (Economics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Income",
+  "subject": "Economics",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate National Income (Economics WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Trade (Commerce WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Business Documents",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Business Documents (Commerce WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Insurance",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Insurance (Commerce WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Warehousing",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Warehousing (Commerce WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "E-commerce Intro",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate E-commerce Intro (Commerce WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Trade (Commerce WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Business Documents",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Business Documents (Commerce WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Insurance",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Insurance (Commerce WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Warehousing",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Warehousing (Commerce WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "E-commerce Intro",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate E-commerce Intro (Commerce WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Trade (Commerce WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Business Documents",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Business Documents (Commerce WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Insurance",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Insurance (Commerce WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Warehousing",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Warehousing (Commerce WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "E-commerce Intro",
+  "subject": "Commerce",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate E-commerce Intro (Commerce WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Double Entry",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Double Entry (Financial Accounting WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trial Balance",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Trial Balance (Financial Accounting WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Final Accounts",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Final Accounts (Financial Accounting WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Bank Reconciliation",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Bank Reconciliation (Financial Accounting WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Depreciation",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Depreciation (Financial Accounting WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Double Entry",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Double Entry (Financial Accounting WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trial Balance",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Trial Balance (Financial Accounting WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Final Accounts",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Final Accounts (Financial Accounting WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Bank Reconciliation",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Bank Reconciliation (Financial Accounting WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Depreciation",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Depreciation (Financial Accounting WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Double Entry",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Double Entry (Financial Accounting WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trial Balance",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Trial Balance (Financial Accounting WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Final Accounts",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Final Accounts (Financial Accounting WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Bank Reconciliation",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Bank Reconciliation (Financial Accounting WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Depreciation",
+  "subject": "Financial Accounting",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Depreciation (Financial Accounting WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Arms of Government",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Arms of Government (Government WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Federalism",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Federalism (Government WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "ECOWAS",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate ECOWAS (Government WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Democracy (Government WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Political Parties",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Political Parties (Government WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Arms of Government",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Arms of Government (Government WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Federalism",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Federalism (Government WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "ECOWAS",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate ECOWAS (Government WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Democracy (Government WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Political Parties",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Political Parties (Government WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Arms of Government",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Arms of Government (Government WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Federalism",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Federalism (Government WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "ECOWAS",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate ECOWAS (Government WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Democracy (Government WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Political Parties",
+  "subject": "Government",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Political Parties (Government WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prose",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Prose (Literature-in-English WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Poetry Devices",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Poetry Devices (Literature-in-English WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drama",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Drama (Literature-in-English WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Figures of Speech",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Figures of Speech (Literature-in-English WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "African Novels",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate African Novels (Literature-in-English WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prose",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Prose (Literature-in-English WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Poetry Devices",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Poetry Devices (Literature-in-English WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drama",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Drama (Literature-in-English WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Figures of Speech",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Figures of Speech (Literature-in-English WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "African Novels",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate African Novels (Literature-in-English WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prose",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Prose (Literature-in-English WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Poetry Devices",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Poetry Devices (Literature-in-English WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drama",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Drama (Literature-in-English WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Figures of Speech",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Figures of Speech (Literature-in-English WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "African Novels",
+  "subject": "Literature-in-English",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate African Novels (Literature-in-English WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Colonialism",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Colonialism (History WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Independence Movements",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Independence Movements (History WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Military Rule",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Military Rule (History WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade History",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Trade History (History WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Nationalism",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Nationalism (History WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Colonialism",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Colonialism (History WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Independence Movements",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Independence Movements (History WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Military Rule",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Military Rule (History WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade History",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Trade History (History WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Nationalism",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Nationalism (History WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Colonialism",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Colonialism (History WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Independence Movements",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Independence Movements (History WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Military Rule",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Military Rule (History WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade History",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Trade History (History WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Nationalism",
+  "subject": "History",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Nationalism (History WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Creation",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Creation (Christian Religious Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Parables",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Parables (Christian Religious Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Sermon on the Mount",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Sermon on the Mount (Christian Religious Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Early Church",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Early Church (Christian Religious Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Faith & Works",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Faith & Works (Christian Religious Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Creation",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Creation (Christian Religious Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Parables",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Parables (Christian Religious Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Sermon on the Mount",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Sermon on the Mount (Christian Religious Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Early Church",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Early Church (Christian Religious Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Faith & Works",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Faith & Works (Christian Religious Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Creation",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Creation (Christian Religious Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Parables",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Parables (Christian Religious Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Sermon on the Mount",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Sermon on the Mount (Christian Religious Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Early Church",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Early Church (Christian Religious Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Faith & Works",
+  "subject": "Christian Religious Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Faith & Works (Christian Religious Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Five Pillars",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Five Pillars (Islamic Religious Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Quranic Revelation",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Quranic Revelation (Islamic Religious Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Hadith",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Hadith (Islamic Religious Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prophethood",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Prophethood (Islamic Religious Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Worship",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Worship (Islamic Religious Studies WAEC SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Five Pillars",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Five Pillars (Islamic Religious Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Quranic Revelation",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Quranic Revelation (Islamic Religious Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Hadith",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Hadith (Islamic Religious Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prophethood",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Prophethood (Islamic Religious Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Worship",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Worship (Islamic Religious Studies WAEC SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Five Pillars",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Five Pillars (Islamic Religious Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Quranic Revelation",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Quranic Revelation (Islamic Religious Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Hadith",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Hadith (Islamic Religious Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prophethood",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Prophethood (Islamic Religious Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Worship",
+  "subject": "Islamic Religious Studies",
+  "exam": "WAEC",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Worship (Islamic Religious Studies WAEC SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Number Bases",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Number Bases (Mathematics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Algebra: Simultaneous Equations",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Algebra: Simultaneous Equations (Mathematics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Geometry: Angles & Triangles",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Geometry: Angles & Triangles (Mathematics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trigonometry",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Trigonometry (Mathematics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Statistics",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Statistics (Mathematics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Number Bases",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Number Bases (Mathematics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Algebra: Simultaneous Equations",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Algebra: Simultaneous Equations (Mathematics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Geometry: Angles & Triangles",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Geometry: Angles & Triangles (Mathematics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trigonometry",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Trigonometry (Mathematics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Statistics",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Statistics (Mathematics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Number Bases",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Number Bases (Mathematics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Algebra: Simultaneous Equations",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Algebra: Simultaneous Equations (Mathematics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Geometry: Angles & Triangles",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Geometry: Angles & Triangles (Mathematics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trigonometry",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Trigonometry (Mathematics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Statistics",
+  "subject": "Mathematics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Statistics (Mathematics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Comprehension",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Comprehension (English Language NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Lexis: Synonyms & Antonyms (English Language NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Grammar: Concord",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Grammar: Concord (English Language NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Oral Forms",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Oral Forms (English Language NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Essay Writing",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Essay Writing (English Language NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Comprehension",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Comprehension (English Language NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Lexis: Synonyms & Antonyms (English Language NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Grammar: Concord",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Grammar: Concord (English Language NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Oral Forms",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Oral Forms (English Language NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Essay Writing",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Essay Writing (English Language NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Comprehension",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Comprehension (English Language NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Lexis: Synonyms & Antonyms (English Language NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Grammar: Concord",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Grammar: Concord (English Language NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Oral Forms",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Oral Forms (English Language NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Essay Writing",
+  "subject": "English Language",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Essay Writing (English Language NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Motion",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Motion (Physics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Waves",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Waves (Physics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electricity",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Electricity (Physics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Heat",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Heat (Physics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Optics",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Optics (Physics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Motion",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Motion (Physics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Waves",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Waves (Physics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electricity",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Electricity (Physics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Heat",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Heat (Physics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Optics",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Optics (Physics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Motion",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Motion (Physics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Waves",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Waves (Physics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electricity",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Electricity (Physics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Heat",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Heat (Physics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Optics",
+  "subject": "Physics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Optics (Physics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Acids and Bases",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Acids and Bases (Chemistry NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Periodic Table",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Periodic Table (Chemistry NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electrolysis",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Electrolysis (Chemistry NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Organic Chemistry Intro",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Organic Chemistry Intro (Chemistry NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Stoichiometry",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Stoichiometry (Chemistry NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Acids and Bases",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Acids and Bases (Chemistry NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Periodic Table",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Periodic Table (Chemistry NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electrolysis",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Electrolysis (Chemistry NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Organic Chemistry Intro",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Organic Chemistry Intro (Chemistry NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Stoichiometry",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Stoichiometry (Chemistry NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Acids and Bases",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Acids and Bases (Chemistry NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Periodic Table",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Periodic Table (Chemistry NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electrolysis",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Electrolysis (Chemistry NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Organic Chemistry Intro",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Organic Chemistry Intro (Chemistry NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Stoichiometry",
+  "subject": "Chemistry",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Stoichiometry (Chemistry NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Cell Biology",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Cell Biology (Biology NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Photosynthesis",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Photosynthesis (Biology NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inheritance",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Inheritance (Biology NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Ecology",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Ecology (Biology NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Transport in Plants",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Transport in Plants (Biology NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Cell Biology",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Cell Biology (Biology NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Photosynthesis",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Photosynthesis (Biology NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inheritance",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Inheritance (Biology NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Ecology",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Ecology (Biology NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Transport in Plants",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Transport in Plants (Biology NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Cell Biology",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Cell Biology (Biology NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Photosynthesis",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Photosynthesis (Biology NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inheritance",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Inheritance (Biology NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Ecology",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Ecology (Biology NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Transport in Plants",
+  "subject": "Biology",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Transport in Plants (Biology NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Map Reading",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Map Reading (Geography NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Weather & Climate",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Weather & Climate (Geography NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Rocks",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Rocks (Geography NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Population",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Population (Geography NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Agriculture",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Agriculture (Geography NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Map Reading",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Map Reading (Geography NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Weather & Climate",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Weather & Climate (Geography NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Rocks",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Rocks (Geography NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Population",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Population (Geography NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Agriculture",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Agriculture (Geography NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Map Reading",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Map Reading (Geography NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Weather & Climate",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Weather & Climate (Geography NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Rocks",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Rocks (Geography NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Population",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Population (Geography NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Agriculture",
+  "subject": "Geography",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Agriculture (Geography NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Citizenship",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Citizenship (Civic Education NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Democracy (Civic Education NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Human Rights",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Human Rights (Civic Education NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drug Abuse",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Drug Abuse (Civic Education NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Values",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate National Values (Civic Education NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Citizenship",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Citizenship (Civic Education NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Democracy (Civic Education NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Human Rights",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Human Rights (Civic Education NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drug Abuse",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Drug Abuse (Civic Education NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Values",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate National Values (Civic Education NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Citizenship",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Citizenship (Civic Education NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Democracy (Civic Education NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Human Rights",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Human Rights (Civic Education NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drug Abuse",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Drug Abuse (Civic Education NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Values",
+  "subject": "Civic Education",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate National Values (Civic Education NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Word Processing",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Word Processing (Computer Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Internet Basics",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Internet Basics (Computer Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Programming Intro",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Programming Intro (Computer Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Data Representation",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Data Representation (Computer Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Spreadsheets",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Spreadsheets (Computer Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Word Processing",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Word Processing (Computer Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Internet Basics",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Internet Basics (Computer Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Programming Intro",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Programming Intro (Computer Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Data Representation",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Data Representation (Computer Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Spreadsheets",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Spreadsheets (Computer Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Word Processing",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Word Processing (Computer Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Internet Basics",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Internet Basics (Computer Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Programming Intro",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Programming Intro (Computer Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Data Representation",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Data Representation (Computer Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Spreadsheets",
+  "subject": "Computer Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Spreadsheets (Computer Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Demand & Supply",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Demand & Supply (Economics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inflation",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Inflation (Economics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Money & Banking",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Money & Banking (Economics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Market Structures",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Market Structures (Economics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Income",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate National Income (Economics NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Demand & Supply",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Demand & Supply (Economics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inflation",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Inflation (Economics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Money & Banking",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Money & Banking (Economics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Market Structures",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Market Structures (Economics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Income",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate National Income (Economics NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Demand & Supply",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Demand & Supply (Economics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inflation",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Inflation (Economics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Money & Banking",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Money & Banking (Economics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Market Structures",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Market Structures (Economics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Income",
+  "subject": "Economics",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate National Income (Economics NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Trade (Commerce NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Business Documents",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Business Documents (Commerce NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Insurance",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Insurance (Commerce NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Warehousing",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Warehousing (Commerce NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "E-commerce Intro",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate E-commerce Intro (Commerce NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Trade (Commerce NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Business Documents",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Business Documents (Commerce NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Insurance",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Insurance (Commerce NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Warehousing",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Warehousing (Commerce NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "E-commerce Intro",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate E-commerce Intro (Commerce NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Trade (Commerce NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Business Documents",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Business Documents (Commerce NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Insurance",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Insurance (Commerce NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Warehousing",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Warehousing (Commerce NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "E-commerce Intro",
+  "subject": "Commerce",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate E-commerce Intro (Commerce NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Double Entry",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Double Entry (Financial Accounting NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trial Balance",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Trial Balance (Financial Accounting NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Final Accounts",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Final Accounts (Financial Accounting NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Bank Reconciliation",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Bank Reconciliation (Financial Accounting NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Depreciation",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Depreciation (Financial Accounting NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Double Entry",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Double Entry (Financial Accounting NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trial Balance",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Trial Balance (Financial Accounting NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Final Accounts",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Final Accounts (Financial Accounting NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Bank Reconciliation",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Bank Reconciliation (Financial Accounting NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Depreciation",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Depreciation (Financial Accounting NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Double Entry",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Double Entry (Financial Accounting NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trial Balance",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Trial Balance (Financial Accounting NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Final Accounts",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Final Accounts (Financial Accounting NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Bank Reconciliation",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Bank Reconciliation (Financial Accounting NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Depreciation",
+  "subject": "Financial Accounting",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Depreciation (Financial Accounting NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Arms of Government",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Arms of Government (Government NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Federalism",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Federalism (Government NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "ECOWAS",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate ECOWAS (Government NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Democracy (Government NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Political Parties",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Political Parties (Government NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Arms of Government",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Arms of Government (Government NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Federalism",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Federalism (Government NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "ECOWAS",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate ECOWAS (Government NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Democracy (Government NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Political Parties",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Political Parties (Government NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Arms of Government",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Arms of Government (Government NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Federalism",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Federalism (Government NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "ECOWAS",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate ECOWAS (Government NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Democracy (Government NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Political Parties",
+  "subject": "Government",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Political Parties (Government NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prose",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Prose (Literature-in-English NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Poetry Devices",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Poetry Devices (Literature-in-English NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drama",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Drama (Literature-in-English NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Figures of Speech",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Figures of Speech (Literature-in-English NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "African Novels",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate African Novels (Literature-in-English NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prose",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Prose (Literature-in-English NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Poetry Devices",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Poetry Devices (Literature-in-English NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drama",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Drama (Literature-in-English NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Figures of Speech",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Figures of Speech (Literature-in-English NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "African Novels",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate African Novels (Literature-in-English NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prose",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Prose (Literature-in-English NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Poetry Devices",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Poetry Devices (Literature-in-English NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drama",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Drama (Literature-in-English NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Figures of Speech",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Figures of Speech (Literature-in-English NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "African Novels",
+  "subject": "Literature-in-English",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate African Novels (Literature-in-English NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Colonialism",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Colonialism (History NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Independence Movements",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Independence Movements (History NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Military Rule",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Military Rule (History NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade History",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Trade History (History NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Nationalism",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Nationalism (History NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Colonialism",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Colonialism (History NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Independence Movements",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Independence Movements (History NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Military Rule",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Military Rule (History NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade History",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Trade History (History NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Nationalism",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Nationalism (History NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Colonialism",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Colonialism (History NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Independence Movements",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Independence Movements (History NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Military Rule",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Military Rule (History NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade History",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Trade History (History NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Nationalism",
+  "subject": "History",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Nationalism (History NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Creation",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Creation (Christian Religious Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Parables",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Parables (Christian Religious Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Sermon on the Mount",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Sermon on the Mount (Christian Religious Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Early Church",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Early Church (Christian Religious Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Faith & Works",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Faith & Works (Christian Religious Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Creation",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Creation (Christian Religious Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Parables",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Parables (Christian Religious Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Sermon on the Mount",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Sermon on the Mount (Christian Religious Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Early Church",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Early Church (Christian Religious Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Faith & Works",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Faith & Works (Christian Religious Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Creation",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Creation (Christian Religious Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Parables",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Parables (Christian Religious Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Sermon on the Mount",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Sermon on the Mount (Christian Religious Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Early Church",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Early Church (Christian Religious Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Faith & Works",
+  "subject": "Christian Religious Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Faith & Works (Christian Religious Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Five Pillars",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Five Pillars (Islamic Religious Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Quranic Revelation",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Quranic Revelation (Islamic Religious Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Hadith",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Hadith (Islamic Religious Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prophethood",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Prophethood (Islamic Religious Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Worship",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Worship (Islamic Religious Studies NECO SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Five Pillars",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Five Pillars (Islamic Religious Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Quranic Revelation",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Quranic Revelation (Islamic Religious Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Hadith",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Hadith (Islamic Religious Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prophethood",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Prophethood (Islamic Religious Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Worship",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Worship (Islamic Religious Studies NECO SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Five Pillars",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Five Pillars (Islamic Religious Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Quranic Revelation",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Quranic Revelation (Islamic Religious Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Hadith",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Hadith (Islamic Religious Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prophethood",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Prophethood (Islamic Religious Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Worship",
+  "subject": "Islamic Religious Studies",
+  "exam": "NECO",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Worship (Islamic Religious Studies NECO SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Number Bases",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Number Bases (Mathematics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Algebra: Simultaneous Equations",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Algebra: Simultaneous Equations (Mathematics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Geometry: Angles & Triangles",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Geometry: Angles & Triangles (Mathematics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trigonometry",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Trigonometry (Mathematics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Statistics",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Statistics (Mathematics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Number Bases",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Number Bases (Mathematics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Algebra: Simultaneous Equations",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Algebra: Simultaneous Equations (Mathematics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Geometry: Angles & Triangles",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Geometry: Angles & Triangles (Mathematics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trigonometry",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Trigonometry (Mathematics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Statistics",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Statistics (Mathematics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Number Bases",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Number Bases (Mathematics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Algebra: Simultaneous Equations",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Algebra: Simultaneous Equations (Mathematics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Geometry: Angles & Triangles",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Geometry: Angles & Triangles (Mathematics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trigonometry",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Trigonometry (Mathematics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Statistics",
+  "subject": "Mathematics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Statistics (Mathematics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Comprehension",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Comprehension (English Language JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Lexis: Synonyms & Antonyms (English Language JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Grammar: Concord",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Grammar: Concord (English Language JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Oral Forms",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Oral Forms (English Language JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Essay Writing",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Essay Writing (English Language JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Comprehension",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Comprehension (English Language JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Lexis: Synonyms & Antonyms (English Language JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Grammar: Concord",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Grammar: Concord (English Language JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Oral Forms",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Oral Forms (English Language JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Essay Writing",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Essay Writing (English Language JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Comprehension",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Comprehension (English Language JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Lexis: Synonyms & Antonyms (English Language JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Grammar: Concord",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Grammar: Concord (English Language JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Oral Forms",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Oral Forms (English Language JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Essay Writing",
+  "subject": "English Language",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Essay Writing (English Language JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Motion",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Motion (Physics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Waves",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Waves (Physics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electricity",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Electricity (Physics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Heat",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Heat (Physics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Optics",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Optics (Physics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Motion",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Motion (Physics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Waves",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Waves (Physics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electricity",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Electricity (Physics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Heat",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Heat (Physics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Optics",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Optics (Physics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Motion",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Motion (Physics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Waves",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Waves (Physics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electricity",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Electricity (Physics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Heat",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Heat (Physics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Optics",
+  "subject": "Physics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Optics (Physics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Acids and Bases",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Acids and Bases (Chemistry JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Periodic Table",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Periodic Table (Chemistry JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electrolysis",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Electrolysis (Chemistry JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Organic Chemistry Intro",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Organic Chemistry Intro (Chemistry JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Stoichiometry",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Stoichiometry (Chemistry JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Acids and Bases",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Acids and Bases (Chemistry JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Periodic Table",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Periodic Table (Chemistry JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electrolysis",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Electrolysis (Chemistry JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Organic Chemistry Intro",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Organic Chemistry Intro (Chemistry JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Stoichiometry",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Stoichiometry (Chemistry JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Acids and Bases",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Acids and Bases (Chemistry JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Periodic Table",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Periodic Table (Chemistry JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Electrolysis",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Electrolysis (Chemistry JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Organic Chemistry Intro",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Organic Chemistry Intro (Chemistry JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Stoichiometry",
+  "subject": "Chemistry",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Stoichiometry (Chemistry JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Cell Biology",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Cell Biology (Biology JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Photosynthesis",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Photosynthesis (Biology JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inheritance",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Inheritance (Biology JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Ecology",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Ecology (Biology JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Transport in Plants",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Transport in Plants (Biology JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Cell Biology",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Cell Biology (Biology JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Photosynthesis",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Photosynthesis (Biology JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inheritance",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Inheritance (Biology JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Ecology",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Ecology (Biology JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Transport in Plants",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Transport in Plants (Biology JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Cell Biology",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Cell Biology (Biology JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Photosynthesis",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Photosynthesis (Biology JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inheritance",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Inheritance (Biology JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Ecology",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Ecology (Biology JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Transport in Plants",
+  "subject": "Biology",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Transport in Plants (Biology JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Map Reading",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Map Reading (Geography JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Weather & Climate",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Weather & Climate (Geography JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Rocks",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Rocks (Geography JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Population",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Population (Geography JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Agriculture",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Agriculture (Geography JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Map Reading",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Map Reading (Geography JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Weather & Climate",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Weather & Climate (Geography JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Rocks",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Rocks (Geography JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Population",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Population (Geography JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Agriculture",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Agriculture (Geography JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Map Reading",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Map Reading (Geography JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Weather & Climate",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Weather & Climate (Geography JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Rocks",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Rocks (Geography JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Population",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Population (Geography JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Agriculture",
+  "subject": "Geography",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Agriculture (Geography JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Citizenship",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Citizenship (Civic Education JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Democracy (Civic Education JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Human Rights",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Human Rights (Civic Education JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drug Abuse",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Drug Abuse (Civic Education JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Values",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate National Values (Civic Education JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Citizenship",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Citizenship (Civic Education JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Democracy (Civic Education JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Human Rights",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Human Rights (Civic Education JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drug Abuse",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Drug Abuse (Civic Education JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Values",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate National Values (Civic Education JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Citizenship",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Citizenship (Civic Education JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Democracy (Civic Education JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Human Rights",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Human Rights (Civic Education JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drug Abuse",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Drug Abuse (Civic Education JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Values",
+  "subject": "Civic Education",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate National Values (Civic Education JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Word Processing",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Word Processing (Computer Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Internet Basics",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Internet Basics (Computer Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Programming Intro",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Programming Intro (Computer Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Data Representation",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Data Representation (Computer Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Spreadsheets",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Spreadsheets (Computer Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Word Processing",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Word Processing (Computer Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Internet Basics",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Internet Basics (Computer Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Programming Intro",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Programming Intro (Computer Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Data Representation",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Data Representation (Computer Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Spreadsheets",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Spreadsheets (Computer Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Word Processing",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Word Processing (Computer Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Internet Basics",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Internet Basics (Computer Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Programming Intro",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Programming Intro (Computer Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Data Representation",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Data Representation (Computer Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Spreadsheets",
+  "subject": "Computer Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Spreadsheets (Computer Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Demand & Supply",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Demand & Supply (Economics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inflation",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Inflation (Economics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Money & Banking",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Money & Banking (Economics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Market Structures",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Market Structures (Economics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Income",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate National Income (Economics JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Demand & Supply",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Demand & Supply (Economics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inflation",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Inflation (Economics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Money & Banking",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Money & Banking (Economics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Market Structures",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Market Structures (Economics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Income",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate National Income (Economics JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Demand & Supply",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Demand & Supply (Economics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Inflation",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Inflation (Economics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Money & Banking",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Money & Banking (Economics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Market Structures",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Market Structures (Economics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "National Income",
+  "subject": "Economics",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate National Income (Economics JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Trade (Commerce JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Business Documents",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Business Documents (Commerce JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Insurance",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Insurance (Commerce JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Warehousing",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Warehousing (Commerce JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "E-commerce Intro",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate E-commerce Intro (Commerce JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Trade (Commerce JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Business Documents",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Business Documents (Commerce JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Insurance",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Insurance (Commerce JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Warehousing",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Warehousing (Commerce JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "E-commerce Intro",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate E-commerce Intro (Commerce JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Trade (Commerce JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Business Documents",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Business Documents (Commerce JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Insurance",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Insurance (Commerce JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Warehousing",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Warehousing (Commerce JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "E-commerce Intro",
+  "subject": "Commerce",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate E-commerce Intro (Commerce JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Double Entry",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Double Entry (Financial Accounting JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trial Balance",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Trial Balance (Financial Accounting JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Final Accounts",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Final Accounts (Financial Accounting JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Bank Reconciliation",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Bank Reconciliation (Financial Accounting JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Depreciation",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Depreciation (Financial Accounting JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Double Entry",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Double Entry (Financial Accounting JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trial Balance",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Trial Balance (Financial Accounting JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Final Accounts",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Final Accounts (Financial Accounting JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Bank Reconciliation",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Bank Reconciliation (Financial Accounting JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Depreciation",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Depreciation (Financial Accounting JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Double Entry",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Double Entry (Financial Accounting JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trial Balance",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Trial Balance (Financial Accounting JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Final Accounts",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Final Accounts (Financial Accounting JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Bank Reconciliation",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Bank Reconciliation (Financial Accounting JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Depreciation",
+  "subject": "Financial Accounting",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Depreciation (Financial Accounting JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Arms of Government",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Arms of Government (Government JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Federalism",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Federalism (Government JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "ECOWAS",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate ECOWAS (Government JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Democracy (Government JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Political Parties",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Political Parties (Government JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Arms of Government",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Arms of Government (Government JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Federalism",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Federalism (Government JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "ECOWAS",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate ECOWAS (Government JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Democracy (Government JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Political Parties",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Political Parties (Government JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Arms of Government",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Arms of Government (Government JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Federalism",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Federalism (Government JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "ECOWAS",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate ECOWAS (Government JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Democracy",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Democracy (Government JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Political Parties",
+  "subject": "Government",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Political Parties (Government JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prose",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Prose (Literature-in-English JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Poetry Devices",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Poetry Devices (Literature-in-English JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drama",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Drama (Literature-in-English JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Figures of Speech",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Figures of Speech (Literature-in-English JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "African Novels",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate African Novels (Literature-in-English JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prose",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Prose (Literature-in-English JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Poetry Devices",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Poetry Devices (Literature-in-English JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drama",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Drama (Literature-in-English JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Figures of Speech",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Figures of Speech (Literature-in-English JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "African Novels",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate African Novels (Literature-in-English JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prose",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Prose (Literature-in-English JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Poetry Devices",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Poetry Devices (Literature-in-English JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Drama",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Drama (Literature-in-English JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Figures of Speech",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Figures of Speech (Literature-in-English JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "African Novels",
+  "subject": "Literature-in-English",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate African Novels (Literature-in-English JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Colonialism",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Colonialism (History JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Independence Movements",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Independence Movements (History JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Military Rule",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Military Rule (History JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade History",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Trade History (History JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Nationalism",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Nationalism (History JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Colonialism",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Colonialism (History JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Independence Movements",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Independence Movements (History JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Military Rule",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Military Rule (History JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade History",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Trade History (History JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Nationalism",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Nationalism (History JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Colonialism",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Colonialism (History JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Independence Movements",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Independence Movements (History JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Military Rule",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Military Rule (History JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Trade History",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Trade History (History JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Nationalism",
+  "subject": "History",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Nationalism (History JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Creation",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Creation (Christian Religious Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Parables",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Parables (Christian Religious Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Sermon on the Mount",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Sermon on the Mount (Christian Religious Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Early Church",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Early Church (Christian Religious Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Faith & Works",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Faith & Works (Christian Religious Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Creation",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Creation (Christian Religious Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Parables",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Parables (Christian Religious Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Sermon on the Mount",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Sermon on the Mount (Christian Religious Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Early Church",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Early Church (Christian Religious Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Faith & Works",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Faith & Works (Christian Religious Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Creation",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Creation (Christian Religious Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Parables",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Parables (Christian Religious Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Sermon on the Mount",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Sermon on the Mount (Christian Religious Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Early Church",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Early Church (Christian Religious Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Faith & Works",
+  "subject": "Christian Religious Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Faith & Works (Christian Religious Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Five Pillars",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Five Pillars (Islamic Religious Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Quranic Revelation",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Quranic Revelation (Islamic Religious Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Hadith",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Hadith (Islamic Religious Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prophethood",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Prophethood (Islamic Religious Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Worship",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS1",
+  "stem": "[DRAFT] Generate Worship (Islamic Religious Studies JAMB SS1) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Five Pillars",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Five Pillars (Islamic Religious Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Quranic Revelation",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Quranic Revelation (Islamic Religious Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Hadith",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Hadith (Islamic Religious Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prophethood",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Prophethood (Islamic Religious Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Worship",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS2",
+  "stem": "[DRAFT] Generate Worship (Islamic Religious Studies JAMB SS2) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Five Pillars",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Five Pillars (Islamic Religious Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Quranic Revelation",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Quranic Revelation (Islamic Religious Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Hadith",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Hadith (Islamic Religious Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Prophethood",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Prophethood (Islamic Religious Studies JAMB SS3) practice question.",
+  "status": "draft"
+ },
+ {
+  "topic": "Worship",
+  "subject": "Islamic Religious Studies",
+  "exam": "JAMB",
+  "class": "SS3",
+  "stem": "[DRAFT] Generate Worship (Islamic Religious Studies JAMB SS3) practice question.",
+  "status": "draft"
+ }
+]

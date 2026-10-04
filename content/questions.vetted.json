@@ -1,0 +1,164 @@
+[
+ {
+  "topic": "Algebra: Simultaneous Equations",
+  "subject": "Mathematics",
+  "stem": "Solve: 2x + y = 7, x - y = 2. Find x.",
+  "options": [
+   "x=3",
+   "x=2",
+   "x=1",
+   "x=4"
+  ],
+  "answer": "x=3",
+  "difficulty": "Basic",
+  "exam_style": "WAEC",
+  "source": "original",
+  "license": "proprietary",
+  "mistake_tags": [
+   "elimination"
+  ],
+  "lang_variants": {
+   "pcm": "Solve am: 2x + y = 7, x - y = 2. Find x. (Add both equations.)"
+  }
+ },
+ {
+  "topic": "Algebra: Simultaneous Equations",
+  "subject": "Mathematics",
+  "stem": "If 3x + 2y = 12 and x + 2y = 8, find x.",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "1"
+  ],
+  "answer": "2",
+  "difficulty": "Intermediate",
+  "exam_style": "JAMB",
+  "source": "original",
+  "license": "proprietary",
+  "mistake_tags": [
+   "substitution"
+  ],
+  "lang_variants": {}
+ },
+ {
+  "topic": "Photosynthesis",
+  "subject": "Biology",
+  "stem": "Where does photosynthesis occur in the plant cell?",
+  "options": [
+   "Chloroplast",
+   "Mitochondrion",
+   "Nucleus",
+   "Ribosome"
+  ],
+  "answer": "Chloroplast",
+  "difficulty": "Basic",
+  "exam_style": "WAEC",
+  "source": "original",
+  "license": "proprietary",
+  "mistake_tags": [
+   "terminology"
+  ],
+  "lang_variants": {}
+ },
+ {
+  "topic": "Photosynthesis",
+  "subject": "Biology",
+  "stem": "Which gas is absorbed for photosynthesis?",
+  "options": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "answer": "Carbon dioxide",
+  "difficulty": "Basic",
+  "exam_style": "NECO",
+  "source": "original",
+  "license": "proprietary",
+  "mistake_tags": [
+   "concept"
+  ],
+  "lang_variants": {}
+ },
+ {
+  "topic": "Inheritance",
+  "subject": "Biology",
+  "stem": "In a cross Aa x Aa, proportion of AA offspring?",
+  "options": [
+   "1/4",
+   "1/2",
+   "3/4",
+   "All"
+  ],
+  "answer": "1/4",
+  "difficulty": "Intermediate",
+  "exam_style": "JAMB",
+  "source": "original",
+  "license": "proprietary",
+  "mistake_tags": [
+   "punnett"
+  ],
+  "lang_variants": {}
+ },
+ {
+  "topic": "Acids and Bases",
+  "subject": "Chemistry",
+  "stem": "pH of a neutral solution at 25C?",
+  "options": [
+   "0",
+   "1",
+   "7",
+   "14"
+  ],
+  "answer": "7",
+  "difficulty": "Basic",
+  "exam_style": "WAEC",
+  "source": "original",
+  "license": "proprietary",
+  "mistake_tags": [
+   "definition"
+  ],
+  "lang_variants": {}
+ },
+ {
+  "topic": "Demand & Supply",
+  "subject": "Economics",
+  "stem": "If price rises, quantity demanded typically?",
+  "options": [
+   "Rises",
+   "Falls",
+   "Stays same",
+   "Doubles"
+  ],
+  "answer": "Falls",
+  "difficulty": "Basic",
+  "exam_style": "WAEC",
+  "source": "original",
+  "license": "proprietary",
+  "mistake_tags": [
+   "law-of-demand"
+  ],
+  "lang_variants": {}
+ },
+ {
+  "topic": "Grammar: Concord",
+  "subject": "English Language",
+  "stem": "Choose correct: Neither of the boys ___ arrived.",
+  "options": [
+   "have",
+   "has",
+   "have been",
+   "are"
+  ],
+  "answer": "has",
+  "difficulty": "Intermediate",
+  "exam_style": "WAEC",
+  "source": "original",
+  "license": "proprietary",
+  "mistake_tags": [
+   "concord"
+  ],
+  "lang_variants": {}
+ }
+]

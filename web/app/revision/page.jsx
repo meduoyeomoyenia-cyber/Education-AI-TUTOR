@@ -1,0 +1,1 @@
+export default function Revision() { return (<div className="bg-white border rounded-xl p-5 max-w-xl"><h1 className="font-extrabold">Revision</h1><p className="text-sm">Weak list + retry goes here (Phase 6 mastery feed).</p></div>); }

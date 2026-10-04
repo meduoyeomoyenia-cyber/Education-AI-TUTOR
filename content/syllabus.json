@@ -1,0 +1,8642 @@
+[
+ {
+  "id": 1,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Number Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Number Bases (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 2,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Algebra: Simultaneous Equations",
+  "subtopic": "",
+  "objectives": [
+   "Understand Algebra: Simultaneous Equations (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 3,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Geometry: Angles & Triangles",
+  "subtopic": "",
+  "objectives": [
+   "Understand Geometry: Angles & Triangles (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 4,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trigonometry (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 5,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Statistics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Statistics (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 6,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Number Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Number Bases (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 7,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Algebra: Simultaneous Equations",
+  "subtopic": "",
+  "objectives": [
+   "Understand Algebra: Simultaneous Equations (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 8,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Geometry: Angles & Triangles",
+  "subtopic": "",
+  "objectives": [
+   "Understand Geometry: Angles & Triangles (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 9,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trigonometry (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 10,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Statistics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Statistics (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 11,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Number Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Number Bases (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 12,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Algebra: Simultaneous Equations",
+  "subtopic": "",
+  "objectives": [
+   "Understand Algebra: Simultaneous Equations (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 13,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Geometry: Angles & Triangles",
+  "subtopic": "",
+  "objectives": [
+   "Understand Geometry: Angles & Triangles (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 14,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trigonometry (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 15,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Statistics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Statistics (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 16,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Comprehension",
+  "subtopic": "",
+  "objectives": [
+   "Understand Comprehension (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 17,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Lexis: Synonyms & Antonyms (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 18,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Grammar: Concord",
+  "subtopic": "",
+  "objectives": [
+   "Understand Grammar: Concord (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 19,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Oral Forms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Oral Forms (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 20,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Essay Writing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Essay Writing (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 21,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Comprehension",
+  "subtopic": "",
+  "objectives": [
+   "Understand Comprehension (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 22,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Lexis: Synonyms & Antonyms (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 23,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Grammar: Concord",
+  "subtopic": "",
+  "objectives": [
+   "Understand Grammar: Concord (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 24,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Oral Forms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Oral Forms (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 25,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Essay Writing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Essay Writing (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 26,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Comprehension",
+  "subtopic": "",
+  "objectives": [
+   "Understand Comprehension (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 27,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Lexis: Synonyms & Antonyms (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 28,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Grammar: Concord",
+  "subtopic": "",
+  "objectives": [
+   "Understand Grammar: Concord (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 29,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Oral Forms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Oral Forms (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 30,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Essay Writing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Essay Writing (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 31,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Motion",
+  "subtopic": "",
+  "objectives": [
+   "Understand Motion (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 32,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Waves",
+  "subtopic": "",
+  "objectives": [
+   "Understand Waves (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 33,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Electricity",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electricity (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 34,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Heat",
+  "subtopic": "",
+  "objectives": [
+   "Understand Heat (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 35,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Optics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Optics (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 36,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Motion",
+  "subtopic": "",
+  "objectives": [
+   "Understand Motion (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 37,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Waves",
+  "subtopic": "",
+  "objectives": [
+   "Understand Waves (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 38,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Electricity",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electricity (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 39,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Heat",
+  "subtopic": "",
+  "objectives": [
+   "Understand Heat (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 40,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Optics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Optics (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 41,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Motion",
+  "subtopic": "",
+  "objectives": [
+   "Understand Motion (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 42,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Waves",
+  "subtopic": "",
+  "objectives": [
+   "Understand Waves (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 43,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Electricity",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electricity (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 44,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Heat",
+  "subtopic": "",
+  "objectives": [
+   "Understand Heat (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 45,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Optics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Optics (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 46,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Acids and Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Acids and Bases (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 47,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Periodic Table",
+  "subtopic": "",
+  "objectives": [
+   "Understand Periodic Table (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 48,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electrolysis (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 49,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Organic Chemistry Intro (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 50,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Stoichiometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Stoichiometry (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 51,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Acids and Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Acids and Bases (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 52,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Periodic Table",
+  "subtopic": "",
+  "objectives": [
+   "Understand Periodic Table (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 53,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electrolysis (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 54,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Organic Chemistry Intro (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 55,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Stoichiometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Stoichiometry (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 56,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Acids and Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Acids and Bases (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 57,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Periodic Table",
+  "subtopic": "",
+  "objectives": [
+   "Understand Periodic Table (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 58,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electrolysis (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 59,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Organic Chemistry Intro (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 60,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Stoichiometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Stoichiometry (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 61,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Cell Biology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Cell Biology (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 62,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Photosynthesis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Photosynthesis (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 63,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Inheritance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inheritance (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 64,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Ecology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Ecology (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 65,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Transport in Plants",
+  "subtopic": "",
+  "objectives": [
+   "Understand Transport in Plants (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 66,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Cell Biology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Cell Biology (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 67,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Photosynthesis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Photosynthesis (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 68,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Inheritance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inheritance (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 69,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Ecology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Ecology (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 70,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Transport in Plants",
+  "subtopic": "",
+  "objectives": [
+   "Understand Transport in Plants (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 71,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Cell Biology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Cell Biology (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 72,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Photosynthesis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Photosynthesis (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 73,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Inheritance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inheritance (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 74,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Ecology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Ecology (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 75,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Transport in Plants",
+  "subtopic": "",
+  "objectives": [
+   "Understand Transport in Plants (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 76,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Map Reading",
+  "subtopic": "",
+  "objectives": [
+   "Understand Map Reading (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 77,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Weather & Climate",
+  "subtopic": "",
+  "objectives": [
+   "Understand Weather & Climate (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 78,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Rocks",
+  "subtopic": "",
+  "objectives": [
+   "Understand Rocks (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 79,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Population",
+  "subtopic": "",
+  "objectives": [
+   "Understand Population (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 80,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Agriculture",
+  "subtopic": "",
+  "objectives": [
+   "Understand Agriculture (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 81,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Map Reading",
+  "subtopic": "",
+  "objectives": [
+   "Understand Map Reading (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 82,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Weather & Climate",
+  "subtopic": "",
+  "objectives": [
+   "Understand Weather & Climate (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 83,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Rocks",
+  "subtopic": "",
+  "objectives": [
+   "Understand Rocks (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 84,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Population",
+  "subtopic": "",
+  "objectives": [
+   "Understand Population (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 85,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Agriculture",
+  "subtopic": "",
+  "objectives": [
+   "Understand Agriculture (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 86,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Map Reading",
+  "subtopic": "",
+  "objectives": [
+   "Understand Map Reading (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 87,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Weather & Climate",
+  "subtopic": "",
+  "objectives": [
+   "Understand Weather & Climate (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 88,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Rocks",
+  "subtopic": "",
+  "objectives": [
+   "Understand Rocks (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 89,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Population",
+  "subtopic": "",
+  "objectives": [
+   "Understand Population (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 90,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Agriculture",
+  "subtopic": "",
+  "objectives": [
+   "Understand Agriculture (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 91,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "Citizenship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Citizenship (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 92,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 93,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "Human Rights",
+  "subtopic": "",
+  "objectives": [
+   "Understand Human Rights (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 94,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "Drug Abuse",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drug Abuse (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 95,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "National Values",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Values (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 96,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "Citizenship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Citizenship (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 97,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 98,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "Human Rights",
+  "subtopic": "",
+  "objectives": [
+   "Understand Human Rights (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 99,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "Drug Abuse",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drug Abuse (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 100,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "National Values",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Values (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 101,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "Citizenship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Citizenship (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 102,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 103,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "Human Rights",
+  "subtopic": "",
+  "objectives": [
+   "Understand Human Rights (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 104,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "Drug Abuse",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drug Abuse (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 105,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "National Values",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Values (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 106,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Word Processing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Word Processing (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 107,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Internet Basics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Internet Basics (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 108,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Programming Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Programming Intro (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 109,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Data Representation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Data Representation (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 110,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Spreadsheets",
+  "subtopic": "",
+  "objectives": [
+   "Understand Spreadsheets (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 111,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Word Processing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Word Processing (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 112,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Internet Basics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Internet Basics (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 113,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Programming Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Programming Intro (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 114,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Data Representation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Data Representation (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 115,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Spreadsheets",
+  "subtopic": "",
+  "objectives": [
+   "Understand Spreadsheets (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 116,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Word Processing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Word Processing (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 117,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Internet Basics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Internet Basics (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 118,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Programming Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Programming Intro (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 119,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Data Representation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Data Representation (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 120,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Spreadsheets",
+  "subtopic": "",
+  "objectives": [
+   "Understand Spreadsheets (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 121,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "Demand & Supply",
+  "subtopic": "",
+  "objectives": [
+   "Understand Demand & Supply (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 122,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "Inflation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inflation (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 123,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "Money & Banking",
+  "subtopic": "",
+  "objectives": [
+   "Understand Money & Banking (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 124,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "Market Structures",
+  "subtopic": "",
+  "objectives": [
+   "Understand Market Structures (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 125,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "National Income",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Income (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 126,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "Demand & Supply",
+  "subtopic": "",
+  "objectives": [
+   "Understand Demand & Supply (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 127,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "Inflation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inflation (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 128,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "Money & Banking",
+  "subtopic": "",
+  "objectives": [
+   "Understand Money & Banking (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 129,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "Market Structures",
+  "subtopic": "",
+  "objectives": [
+   "Understand Market Structures (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 130,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "National Income",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Income (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 131,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "Demand & Supply",
+  "subtopic": "",
+  "objectives": [
+   "Understand Demand & Supply (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 132,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "Inflation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inflation (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 133,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "Money & Banking",
+  "subtopic": "",
+  "objectives": [
+   "Understand Money & Banking (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 134,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "Market Structures",
+  "subtopic": "",
+  "objectives": [
+   "Understand Market Structures (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 135,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "National Income",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Income (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 136,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "Trade",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 137,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "Business Documents",
+  "subtopic": "",
+  "objectives": [
+   "Understand Business Documents (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 138,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "Insurance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Insurance (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 139,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "Warehousing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Warehousing (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 140,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "E-commerce Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand E-commerce Intro (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 141,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "Trade",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 142,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "Business Documents",
+  "subtopic": "",
+  "objectives": [
+   "Understand Business Documents (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 143,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "Insurance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Insurance (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 144,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "Warehousing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Warehousing (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 145,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "E-commerce Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand E-commerce Intro (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 146,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "Trade",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 147,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "Business Documents",
+  "subtopic": "",
+  "objectives": [
+   "Understand Business Documents (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 148,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "Insurance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Insurance (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 149,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "Warehousing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Warehousing (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 150,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "E-commerce Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand E-commerce Intro (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 151,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Double Entry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Double Entry (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 152,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Trial Balance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trial Balance (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 153,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Final Accounts",
+  "subtopic": "",
+  "objectives": [
+   "Understand Final Accounts (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 154,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Bank Reconciliation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Bank Reconciliation (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 155,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Depreciation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Depreciation (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 156,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Double Entry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Double Entry (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 157,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Trial Balance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trial Balance (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 158,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Final Accounts",
+  "subtopic": "",
+  "objectives": [
+   "Understand Final Accounts (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 159,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Bank Reconciliation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Bank Reconciliation (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 160,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Depreciation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Depreciation (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 161,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Double Entry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Double Entry (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 162,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Trial Balance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trial Balance (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 163,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Final Accounts",
+  "subtopic": "",
+  "objectives": [
+   "Understand Final Accounts (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 164,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Bank Reconciliation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Bank Reconciliation (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 165,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Depreciation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Depreciation (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 166,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "Arms of Government",
+  "subtopic": "",
+  "objectives": [
+   "Understand Arms of Government (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 167,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "Federalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Federalism (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 168,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "ECOWAS",
+  "subtopic": "",
+  "objectives": [
+   "Understand ECOWAS (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 169,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 170,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "Political Parties",
+  "subtopic": "",
+  "objectives": [
+   "Understand Political Parties (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 171,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "Arms of Government",
+  "subtopic": "",
+  "objectives": [
+   "Understand Arms of Government (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 172,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "Federalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Federalism (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 173,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "ECOWAS",
+  "subtopic": "",
+  "objectives": [
+   "Understand ECOWAS (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 174,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 175,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "Political Parties",
+  "subtopic": "",
+  "objectives": [
+   "Understand Political Parties (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 176,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "Arms of Government",
+  "subtopic": "",
+  "objectives": [
+   "Understand Arms of Government (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 177,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "Federalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Federalism (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 178,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "ECOWAS",
+  "subtopic": "",
+  "objectives": [
+   "Understand ECOWAS (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 179,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 180,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "Political Parties",
+  "subtopic": "",
+  "objectives": [
+   "Understand Political Parties (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 181,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "Prose",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prose (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 182,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "Poetry Devices",
+  "subtopic": "",
+  "objectives": [
+   "Understand Poetry Devices (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 183,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "Drama",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drama (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 184,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "Figures of Speech",
+  "subtopic": "",
+  "objectives": [
+   "Understand Figures of Speech (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 185,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "African Novels",
+  "subtopic": "",
+  "objectives": [
+   "Understand African Novels (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 186,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "Prose",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prose (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 187,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "Poetry Devices",
+  "subtopic": "",
+  "objectives": [
+   "Understand Poetry Devices (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 188,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "Drama",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drama (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 189,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "Figures of Speech",
+  "subtopic": "",
+  "objectives": [
+   "Understand Figures of Speech (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 190,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "African Novels",
+  "subtopic": "",
+  "objectives": [
+   "Understand African Novels (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 191,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "Prose",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prose (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 192,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "Poetry Devices",
+  "subtopic": "",
+  "objectives": [
+   "Understand Poetry Devices (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 193,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "Drama",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drama (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 194,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "Figures of Speech",
+  "subtopic": "",
+  "objectives": [
+   "Understand Figures of Speech (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 195,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "African Novels",
+  "subtopic": "",
+  "objectives": [
+   "Understand African Novels (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 196,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Colonialism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Colonialism (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 197,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Independence Movements",
+  "subtopic": "",
+  "objectives": [
+   "Understand Independence Movements (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 198,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Military Rule",
+  "subtopic": "",
+  "objectives": [
+   "Understand Military Rule (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 199,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Trade History",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade History (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 200,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Nationalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Nationalism (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 201,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Colonialism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Colonialism (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 202,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Independence Movements",
+  "subtopic": "",
+  "objectives": [
+   "Understand Independence Movements (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 203,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Military Rule",
+  "subtopic": "",
+  "objectives": [
+   "Understand Military Rule (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 204,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Trade History",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade History (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 205,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Nationalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Nationalism (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 206,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Colonialism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Colonialism (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 207,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Independence Movements",
+  "subtopic": "",
+  "objectives": [
+   "Understand Independence Movements (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 208,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Military Rule",
+  "subtopic": "",
+  "objectives": [
+   "Understand Military Rule (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 209,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Trade History",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade History (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 210,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Nationalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Nationalism (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 211,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Creation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Creation (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 212,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Parables",
+  "subtopic": "",
+  "objectives": [
+   "Understand Parables (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 213,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Sermon on the Mount",
+  "subtopic": "",
+  "objectives": [
+   "Understand Sermon on the Mount (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 214,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Early Church",
+  "subtopic": "",
+  "objectives": [
+   "Understand Early Church (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 215,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Faith & Works",
+  "subtopic": "",
+  "objectives": [
+   "Understand Faith & Works (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 216,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Creation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Creation (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 217,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Parables",
+  "subtopic": "",
+  "objectives": [
+   "Understand Parables (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 218,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Sermon on the Mount",
+  "subtopic": "",
+  "objectives": [
+   "Understand Sermon on the Mount (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 219,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Early Church",
+  "subtopic": "",
+  "objectives": [
+   "Understand Early Church (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 220,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Faith & Works",
+  "subtopic": "",
+  "objectives": [
+   "Understand Faith & Works (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 221,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Creation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Creation (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 222,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Parables",
+  "subtopic": "",
+  "objectives": [
+   "Understand Parables (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 223,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Sermon on the Mount",
+  "subtopic": "",
+  "objectives": [
+   "Understand Sermon on the Mount (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 224,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Early Church",
+  "subtopic": "",
+  "objectives": [
+   "Understand Early Church (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 225,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Faith & Works",
+  "subtopic": "",
+  "objectives": [
+   "Understand Faith & Works (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 226,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Five Pillars",
+  "subtopic": "",
+  "objectives": [
+   "Understand Five Pillars (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 227,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Quranic Revelation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Quranic Revelation (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 228,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Hadith",
+  "subtopic": "",
+  "objectives": [
+   "Understand Hadith (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 229,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Prophethood",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prophethood (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 230,
+  "exam": "WAEC",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Worship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Worship (WAEC SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 231,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Five Pillars",
+  "subtopic": "",
+  "objectives": [
+   "Understand Five Pillars (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 232,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Quranic Revelation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Quranic Revelation (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 233,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Hadith",
+  "subtopic": "",
+  "objectives": [
+   "Understand Hadith (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 234,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Prophethood",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prophethood (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 235,
+  "exam": "WAEC",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Worship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Worship (WAEC SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 236,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Five Pillars",
+  "subtopic": "",
+  "objectives": [
+   "Understand Five Pillars (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 237,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Quranic Revelation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Quranic Revelation (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 238,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Hadith",
+  "subtopic": "",
+  "objectives": [
+   "Understand Hadith (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 239,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Prophethood",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prophethood (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 240,
+  "exam": "WAEC",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Worship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Worship (WAEC SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 241,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Number Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Number Bases (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 242,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Algebra: Simultaneous Equations",
+  "subtopic": "",
+  "objectives": [
+   "Understand Algebra: Simultaneous Equations (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 243,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Geometry: Angles & Triangles",
+  "subtopic": "",
+  "objectives": [
+   "Understand Geometry: Angles & Triangles (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 244,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trigonometry (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 245,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Statistics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Statistics (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 246,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Number Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Number Bases (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 247,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Algebra: Simultaneous Equations",
+  "subtopic": "",
+  "objectives": [
+   "Understand Algebra: Simultaneous Equations (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 248,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Geometry: Angles & Triangles",
+  "subtopic": "",
+  "objectives": [
+   "Understand Geometry: Angles & Triangles (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 249,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trigonometry (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 250,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Statistics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Statistics (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 251,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Number Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Number Bases (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 252,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Algebra: Simultaneous Equations",
+  "subtopic": "",
+  "objectives": [
+   "Understand Algebra: Simultaneous Equations (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 253,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Geometry: Angles & Triangles",
+  "subtopic": "",
+  "objectives": [
+   "Understand Geometry: Angles & Triangles (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 254,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trigonometry (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 255,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Statistics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Statistics (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 256,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Comprehension",
+  "subtopic": "",
+  "objectives": [
+   "Understand Comprehension (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 257,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Lexis: Synonyms & Antonyms (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 258,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Grammar: Concord",
+  "subtopic": "",
+  "objectives": [
+   "Understand Grammar: Concord (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 259,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Oral Forms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Oral Forms (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 260,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Essay Writing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Essay Writing (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 261,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Comprehension",
+  "subtopic": "",
+  "objectives": [
+   "Understand Comprehension (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 262,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Lexis: Synonyms & Antonyms (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 263,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Grammar: Concord",
+  "subtopic": "",
+  "objectives": [
+   "Understand Grammar: Concord (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 264,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Oral Forms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Oral Forms (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 265,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Essay Writing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Essay Writing (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 266,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Comprehension",
+  "subtopic": "",
+  "objectives": [
+   "Understand Comprehension (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 267,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Lexis: Synonyms & Antonyms (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 268,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Grammar: Concord",
+  "subtopic": "",
+  "objectives": [
+   "Understand Grammar: Concord (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 269,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Oral Forms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Oral Forms (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 270,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Essay Writing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Essay Writing (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 271,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Motion",
+  "subtopic": "",
+  "objectives": [
+   "Understand Motion (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 272,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Waves",
+  "subtopic": "",
+  "objectives": [
+   "Understand Waves (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 273,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Electricity",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electricity (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 274,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Heat",
+  "subtopic": "",
+  "objectives": [
+   "Understand Heat (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 275,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Optics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Optics (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 276,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Motion",
+  "subtopic": "",
+  "objectives": [
+   "Understand Motion (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 277,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Waves",
+  "subtopic": "",
+  "objectives": [
+   "Understand Waves (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 278,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Electricity",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electricity (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 279,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Heat",
+  "subtopic": "",
+  "objectives": [
+   "Understand Heat (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 280,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Optics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Optics (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 281,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Motion",
+  "subtopic": "",
+  "objectives": [
+   "Understand Motion (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 282,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Waves",
+  "subtopic": "",
+  "objectives": [
+   "Understand Waves (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 283,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Electricity",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electricity (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 284,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Heat",
+  "subtopic": "",
+  "objectives": [
+   "Understand Heat (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 285,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Optics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Optics (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 286,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Acids and Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Acids and Bases (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 287,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Periodic Table",
+  "subtopic": "",
+  "objectives": [
+   "Understand Periodic Table (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 288,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electrolysis (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 289,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Organic Chemistry Intro (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 290,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Stoichiometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Stoichiometry (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 291,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Acids and Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Acids and Bases (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 292,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Periodic Table",
+  "subtopic": "",
+  "objectives": [
+   "Understand Periodic Table (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 293,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electrolysis (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 294,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Organic Chemistry Intro (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 295,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Stoichiometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Stoichiometry (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 296,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Acids and Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Acids and Bases (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 297,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Periodic Table",
+  "subtopic": "",
+  "objectives": [
+   "Understand Periodic Table (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 298,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electrolysis (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 299,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Organic Chemistry Intro (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 300,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Stoichiometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Stoichiometry (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 301,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Cell Biology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Cell Biology (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 302,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Photosynthesis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Photosynthesis (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 303,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Inheritance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inheritance (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 304,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Ecology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Ecology (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 305,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Transport in Plants",
+  "subtopic": "",
+  "objectives": [
+   "Understand Transport in Plants (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 306,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Cell Biology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Cell Biology (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 307,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Photosynthesis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Photosynthesis (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 308,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Inheritance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inheritance (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 309,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Ecology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Ecology (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 310,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Transport in Plants",
+  "subtopic": "",
+  "objectives": [
+   "Understand Transport in Plants (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 311,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Cell Biology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Cell Biology (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 312,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Photosynthesis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Photosynthesis (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 313,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Inheritance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inheritance (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 314,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Ecology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Ecology (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 315,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Transport in Plants",
+  "subtopic": "",
+  "objectives": [
+   "Understand Transport in Plants (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 316,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Map Reading",
+  "subtopic": "",
+  "objectives": [
+   "Understand Map Reading (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 317,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Weather & Climate",
+  "subtopic": "",
+  "objectives": [
+   "Understand Weather & Climate (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 318,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Rocks",
+  "subtopic": "",
+  "objectives": [
+   "Understand Rocks (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 319,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Population",
+  "subtopic": "",
+  "objectives": [
+   "Understand Population (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 320,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Agriculture",
+  "subtopic": "",
+  "objectives": [
+   "Understand Agriculture (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 321,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Map Reading",
+  "subtopic": "",
+  "objectives": [
+   "Understand Map Reading (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 322,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Weather & Climate",
+  "subtopic": "",
+  "objectives": [
+   "Understand Weather & Climate (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 323,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Rocks",
+  "subtopic": "",
+  "objectives": [
+   "Understand Rocks (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 324,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Population",
+  "subtopic": "",
+  "objectives": [
+   "Understand Population (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 325,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Agriculture",
+  "subtopic": "",
+  "objectives": [
+   "Understand Agriculture (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 326,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Map Reading",
+  "subtopic": "",
+  "objectives": [
+   "Understand Map Reading (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 327,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Weather & Climate",
+  "subtopic": "",
+  "objectives": [
+   "Understand Weather & Climate (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 328,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Rocks",
+  "subtopic": "",
+  "objectives": [
+   "Understand Rocks (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 329,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Population",
+  "subtopic": "",
+  "objectives": [
+   "Understand Population (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 330,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Agriculture",
+  "subtopic": "",
+  "objectives": [
+   "Understand Agriculture (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 331,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "Citizenship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Citizenship (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 332,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 333,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "Human Rights",
+  "subtopic": "",
+  "objectives": [
+   "Understand Human Rights (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 334,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "Drug Abuse",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drug Abuse (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 335,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "National Values",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Values (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 336,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "Citizenship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Citizenship (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 337,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 338,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "Human Rights",
+  "subtopic": "",
+  "objectives": [
+   "Understand Human Rights (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 339,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "Drug Abuse",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drug Abuse (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 340,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "National Values",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Values (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 341,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "Citizenship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Citizenship (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 342,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 343,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "Human Rights",
+  "subtopic": "",
+  "objectives": [
+   "Understand Human Rights (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 344,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "Drug Abuse",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drug Abuse (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 345,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "National Values",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Values (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 346,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Word Processing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Word Processing (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 347,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Internet Basics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Internet Basics (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 348,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Programming Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Programming Intro (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 349,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Data Representation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Data Representation (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 350,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Spreadsheets",
+  "subtopic": "",
+  "objectives": [
+   "Understand Spreadsheets (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 351,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Word Processing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Word Processing (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 352,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Internet Basics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Internet Basics (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 353,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Programming Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Programming Intro (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 354,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Data Representation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Data Representation (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 355,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Spreadsheets",
+  "subtopic": "",
+  "objectives": [
+   "Understand Spreadsheets (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 356,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Word Processing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Word Processing (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 357,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Internet Basics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Internet Basics (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 358,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Programming Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Programming Intro (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 359,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Data Representation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Data Representation (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 360,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Spreadsheets",
+  "subtopic": "",
+  "objectives": [
+   "Understand Spreadsheets (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 361,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "Demand & Supply",
+  "subtopic": "",
+  "objectives": [
+   "Understand Demand & Supply (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 362,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "Inflation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inflation (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 363,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "Money & Banking",
+  "subtopic": "",
+  "objectives": [
+   "Understand Money & Banking (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 364,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "Market Structures",
+  "subtopic": "",
+  "objectives": [
+   "Understand Market Structures (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 365,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "National Income",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Income (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 366,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "Demand & Supply",
+  "subtopic": "",
+  "objectives": [
+   "Understand Demand & Supply (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 367,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "Inflation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inflation (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 368,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "Money & Banking",
+  "subtopic": "",
+  "objectives": [
+   "Understand Money & Banking (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 369,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "Market Structures",
+  "subtopic": "",
+  "objectives": [
+   "Understand Market Structures (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 370,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "National Income",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Income (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 371,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "Demand & Supply",
+  "subtopic": "",
+  "objectives": [
+   "Understand Demand & Supply (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 372,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "Inflation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inflation (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 373,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "Money & Banking",
+  "subtopic": "",
+  "objectives": [
+   "Understand Money & Banking (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 374,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "Market Structures",
+  "subtopic": "",
+  "objectives": [
+   "Understand Market Structures (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 375,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "National Income",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Income (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 376,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "Trade",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 377,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "Business Documents",
+  "subtopic": "",
+  "objectives": [
+   "Understand Business Documents (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 378,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "Insurance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Insurance (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 379,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "Warehousing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Warehousing (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 380,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "E-commerce Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand E-commerce Intro (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 381,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "Trade",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 382,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "Business Documents",
+  "subtopic": "",
+  "objectives": [
+   "Understand Business Documents (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 383,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "Insurance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Insurance (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 384,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "Warehousing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Warehousing (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 385,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "E-commerce Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand E-commerce Intro (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 386,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "Trade",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 387,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "Business Documents",
+  "subtopic": "",
+  "objectives": [
+   "Understand Business Documents (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 388,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "Insurance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Insurance (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 389,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "Warehousing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Warehousing (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 390,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "E-commerce Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand E-commerce Intro (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 391,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Double Entry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Double Entry (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 392,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Trial Balance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trial Balance (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 393,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Final Accounts",
+  "subtopic": "",
+  "objectives": [
+   "Understand Final Accounts (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 394,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Bank Reconciliation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Bank Reconciliation (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 395,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Depreciation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Depreciation (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 396,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Double Entry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Double Entry (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 397,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Trial Balance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trial Balance (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 398,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Final Accounts",
+  "subtopic": "",
+  "objectives": [
+   "Understand Final Accounts (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 399,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Bank Reconciliation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Bank Reconciliation (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 400,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Depreciation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Depreciation (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 401,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Double Entry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Double Entry (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 402,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Trial Balance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trial Balance (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 403,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Final Accounts",
+  "subtopic": "",
+  "objectives": [
+   "Understand Final Accounts (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 404,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Bank Reconciliation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Bank Reconciliation (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 405,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Depreciation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Depreciation (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 406,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "Arms of Government",
+  "subtopic": "",
+  "objectives": [
+   "Understand Arms of Government (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 407,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "Federalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Federalism (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 408,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "ECOWAS",
+  "subtopic": "",
+  "objectives": [
+   "Understand ECOWAS (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 409,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 410,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "Political Parties",
+  "subtopic": "",
+  "objectives": [
+   "Understand Political Parties (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 411,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "Arms of Government",
+  "subtopic": "",
+  "objectives": [
+   "Understand Arms of Government (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 412,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "Federalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Federalism (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 413,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "ECOWAS",
+  "subtopic": "",
+  "objectives": [
+   "Understand ECOWAS (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 414,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 415,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "Political Parties",
+  "subtopic": "",
+  "objectives": [
+   "Understand Political Parties (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 416,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "Arms of Government",
+  "subtopic": "",
+  "objectives": [
+   "Understand Arms of Government (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 417,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "Federalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Federalism (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 418,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "ECOWAS",
+  "subtopic": "",
+  "objectives": [
+   "Understand ECOWAS (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 419,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 420,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "Political Parties",
+  "subtopic": "",
+  "objectives": [
+   "Understand Political Parties (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 421,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "Prose",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prose (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 422,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "Poetry Devices",
+  "subtopic": "",
+  "objectives": [
+   "Understand Poetry Devices (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 423,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "Drama",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drama (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 424,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "Figures of Speech",
+  "subtopic": "",
+  "objectives": [
+   "Understand Figures of Speech (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 425,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "African Novels",
+  "subtopic": "",
+  "objectives": [
+   "Understand African Novels (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 426,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "Prose",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prose (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 427,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "Poetry Devices",
+  "subtopic": "",
+  "objectives": [
+   "Understand Poetry Devices (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 428,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "Drama",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drama (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 429,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "Figures of Speech",
+  "subtopic": "",
+  "objectives": [
+   "Understand Figures of Speech (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 430,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "African Novels",
+  "subtopic": "",
+  "objectives": [
+   "Understand African Novels (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 431,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "Prose",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prose (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 432,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "Poetry Devices",
+  "subtopic": "",
+  "objectives": [
+   "Understand Poetry Devices (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 433,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "Drama",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drama (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 434,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "Figures of Speech",
+  "subtopic": "",
+  "objectives": [
+   "Understand Figures of Speech (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 435,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "African Novels",
+  "subtopic": "",
+  "objectives": [
+   "Understand African Novels (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 436,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Colonialism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Colonialism (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 437,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Independence Movements",
+  "subtopic": "",
+  "objectives": [
+   "Understand Independence Movements (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 438,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Military Rule",
+  "subtopic": "",
+  "objectives": [
+   "Understand Military Rule (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 439,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Trade History",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade History (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 440,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Nationalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Nationalism (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 441,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Colonialism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Colonialism (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 442,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Independence Movements",
+  "subtopic": "",
+  "objectives": [
+   "Understand Independence Movements (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 443,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Military Rule",
+  "subtopic": "",
+  "objectives": [
+   "Understand Military Rule (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 444,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Trade History",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade History (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 445,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Nationalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Nationalism (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 446,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Colonialism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Colonialism (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 447,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Independence Movements",
+  "subtopic": "",
+  "objectives": [
+   "Understand Independence Movements (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 448,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Military Rule",
+  "subtopic": "",
+  "objectives": [
+   "Understand Military Rule (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 449,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Trade History",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade History (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 450,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Nationalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Nationalism (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 451,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Creation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Creation (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 452,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Parables",
+  "subtopic": "",
+  "objectives": [
+   "Understand Parables (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 453,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Sermon on the Mount",
+  "subtopic": "",
+  "objectives": [
+   "Understand Sermon on the Mount (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 454,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Early Church",
+  "subtopic": "",
+  "objectives": [
+   "Understand Early Church (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 455,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Faith & Works",
+  "subtopic": "",
+  "objectives": [
+   "Understand Faith & Works (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 456,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Creation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Creation (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 457,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Parables",
+  "subtopic": "",
+  "objectives": [
+   "Understand Parables (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 458,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Sermon on the Mount",
+  "subtopic": "",
+  "objectives": [
+   "Understand Sermon on the Mount (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 459,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Early Church",
+  "subtopic": "",
+  "objectives": [
+   "Understand Early Church (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 460,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Faith & Works",
+  "subtopic": "",
+  "objectives": [
+   "Understand Faith & Works (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 461,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Creation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Creation (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 462,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Parables",
+  "subtopic": "",
+  "objectives": [
+   "Understand Parables (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 463,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Sermon on the Mount",
+  "subtopic": "",
+  "objectives": [
+   "Understand Sermon on the Mount (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 464,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Early Church",
+  "subtopic": "",
+  "objectives": [
+   "Understand Early Church (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 465,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Faith & Works",
+  "subtopic": "",
+  "objectives": [
+   "Understand Faith & Works (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 466,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Five Pillars",
+  "subtopic": "",
+  "objectives": [
+   "Understand Five Pillars (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 467,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Quranic Revelation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Quranic Revelation (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 468,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Hadith",
+  "subtopic": "",
+  "objectives": [
+   "Understand Hadith (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 469,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Prophethood",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prophethood (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 470,
+  "exam": "NECO",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Worship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Worship (NECO SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 471,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Five Pillars",
+  "subtopic": "",
+  "objectives": [
+   "Understand Five Pillars (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 472,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Quranic Revelation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Quranic Revelation (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 473,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Hadith",
+  "subtopic": "",
+  "objectives": [
+   "Understand Hadith (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 474,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Prophethood",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prophethood (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 475,
+  "exam": "NECO",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Worship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Worship (NECO SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 476,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Five Pillars",
+  "subtopic": "",
+  "objectives": [
+   "Understand Five Pillars (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 477,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Quranic Revelation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Quranic Revelation (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 478,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Hadith",
+  "subtopic": "",
+  "objectives": [
+   "Understand Hadith (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 479,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Prophethood",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prophethood (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 480,
+  "exam": "NECO",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Worship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Worship (NECO SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 481,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Number Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Number Bases (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 482,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Algebra: Simultaneous Equations",
+  "subtopic": "",
+  "objectives": [
+   "Understand Algebra: Simultaneous Equations (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 483,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Geometry: Angles & Triangles",
+  "subtopic": "",
+  "objectives": [
+   "Understand Geometry: Angles & Triangles (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 484,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trigonometry (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 485,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Mathematics",
+  "topic": "Statistics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Statistics (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 486,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Number Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Number Bases (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 487,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Algebra: Simultaneous Equations",
+  "subtopic": "",
+  "objectives": [
+   "Understand Algebra: Simultaneous Equations (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 488,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Geometry: Angles & Triangles",
+  "subtopic": "",
+  "objectives": [
+   "Understand Geometry: Angles & Triangles (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 489,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trigonometry (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 490,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Mathematics",
+  "topic": "Statistics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Statistics (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 491,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Number Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Number Bases (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 492,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Algebra: Simultaneous Equations",
+  "subtopic": "",
+  "objectives": [
+   "Understand Algebra: Simultaneous Equations (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 493,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Geometry: Angles & Triangles",
+  "subtopic": "",
+  "objectives": [
+   "Understand Geometry: Angles & Triangles (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 494,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trigonometry (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 495,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Mathematics",
+  "topic": "Statistics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Statistics (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 496,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Comprehension",
+  "subtopic": "",
+  "objectives": [
+   "Understand Comprehension (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 497,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Lexis: Synonyms & Antonyms (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 498,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Grammar: Concord",
+  "subtopic": "",
+  "objectives": [
+   "Understand Grammar: Concord (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 499,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Oral Forms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Oral Forms (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 500,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "English Language",
+  "topic": "Essay Writing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Essay Writing (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 501,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Comprehension",
+  "subtopic": "",
+  "objectives": [
+   "Understand Comprehension (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 502,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Lexis: Synonyms & Antonyms (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 503,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Grammar: Concord",
+  "subtopic": "",
+  "objectives": [
+   "Understand Grammar: Concord (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 504,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Oral Forms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Oral Forms (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 505,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "English Language",
+  "topic": "Essay Writing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Essay Writing (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 506,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Comprehension",
+  "subtopic": "",
+  "objectives": [
+   "Understand Comprehension (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 507,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Lexis: Synonyms & Antonyms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Lexis: Synonyms & Antonyms (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 508,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Grammar: Concord",
+  "subtopic": "",
+  "objectives": [
+   "Understand Grammar: Concord (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 509,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Oral Forms",
+  "subtopic": "",
+  "objectives": [
+   "Understand Oral Forms (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 510,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "English Language",
+  "topic": "Essay Writing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Essay Writing (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 511,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Motion",
+  "subtopic": "",
+  "objectives": [
+   "Understand Motion (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 512,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Waves",
+  "subtopic": "",
+  "objectives": [
+   "Understand Waves (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 513,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Electricity",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electricity (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 514,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Heat",
+  "subtopic": "",
+  "objectives": [
+   "Understand Heat (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 515,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Physics",
+  "topic": "Optics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Optics (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 516,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Motion",
+  "subtopic": "",
+  "objectives": [
+   "Understand Motion (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 517,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Waves",
+  "subtopic": "",
+  "objectives": [
+   "Understand Waves (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 518,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Electricity",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electricity (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 519,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Heat",
+  "subtopic": "",
+  "objectives": [
+   "Understand Heat (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 520,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Physics",
+  "topic": "Optics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Optics (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 521,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Motion",
+  "subtopic": "",
+  "objectives": [
+   "Understand Motion (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 522,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Waves",
+  "subtopic": "",
+  "objectives": [
+   "Understand Waves (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 523,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Electricity",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electricity (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 524,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Heat",
+  "subtopic": "",
+  "objectives": [
+   "Understand Heat (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 525,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Physics",
+  "topic": "Optics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Optics (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 526,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Acids and Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Acids and Bases (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 527,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Periodic Table",
+  "subtopic": "",
+  "objectives": [
+   "Understand Periodic Table (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 528,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electrolysis (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 529,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Organic Chemistry Intro (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 530,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Chemistry",
+  "topic": "Stoichiometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Stoichiometry (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 531,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Acids and Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Acids and Bases (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 532,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Periodic Table",
+  "subtopic": "",
+  "objectives": [
+   "Understand Periodic Table (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 533,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electrolysis (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 534,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Organic Chemistry Intro (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 535,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Chemistry",
+  "topic": "Stoichiometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Stoichiometry (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 536,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Acids and Bases",
+  "subtopic": "",
+  "objectives": [
+   "Understand Acids and Bases (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 537,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Periodic Table",
+  "subtopic": "",
+  "objectives": [
+   "Understand Periodic Table (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 538,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Electrolysis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Electrolysis (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 539,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Organic Chemistry Intro (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 540,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Chemistry",
+  "topic": "Stoichiometry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Stoichiometry (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 541,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Cell Biology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Cell Biology (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 542,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Photosynthesis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Photosynthesis (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 543,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Inheritance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inheritance (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 544,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Ecology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Ecology (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 545,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Biology",
+  "topic": "Transport in Plants",
+  "subtopic": "",
+  "objectives": [
+   "Understand Transport in Plants (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 546,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Cell Biology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Cell Biology (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 547,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Photosynthesis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Photosynthesis (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 548,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Inheritance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inheritance (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 549,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Ecology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Ecology (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 550,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Biology",
+  "topic": "Transport in Plants",
+  "subtopic": "",
+  "objectives": [
+   "Understand Transport in Plants (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 551,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Cell Biology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Cell Biology (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 552,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Photosynthesis",
+  "subtopic": "",
+  "objectives": [
+   "Understand Photosynthesis (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 553,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Inheritance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inheritance (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 554,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Ecology",
+  "subtopic": "",
+  "objectives": [
+   "Understand Ecology (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 555,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Biology",
+  "topic": "Transport in Plants",
+  "subtopic": "",
+  "objectives": [
+   "Understand Transport in Plants (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 556,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Map Reading",
+  "subtopic": "",
+  "objectives": [
+   "Understand Map Reading (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 557,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Weather & Climate",
+  "subtopic": "",
+  "objectives": [
+   "Understand Weather & Climate (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 558,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Rocks",
+  "subtopic": "",
+  "objectives": [
+   "Understand Rocks (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 559,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Population",
+  "subtopic": "",
+  "objectives": [
+   "Understand Population (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 560,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Geography",
+  "topic": "Agriculture",
+  "subtopic": "",
+  "objectives": [
+   "Understand Agriculture (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 561,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Map Reading",
+  "subtopic": "",
+  "objectives": [
+   "Understand Map Reading (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 562,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Weather & Climate",
+  "subtopic": "",
+  "objectives": [
+   "Understand Weather & Climate (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 563,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Rocks",
+  "subtopic": "",
+  "objectives": [
+   "Understand Rocks (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 564,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Population",
+  "subtopic": "",
+  "objectives": [
+   "Understand Population (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 565,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Geography",
+  "topic": "Agriculture",
+  "subtopic": "",
+  "objectives": [
+   "Understand Agriculture (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 566,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Map Reading",
+  "subtopic": "",
+  "objectives": [
+   "Understand Map Reading (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 567,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Weather & Climate",
+  "subtopic": "",
+  "objectives": [
+   "Understand Weather & Climate (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 568,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Rocks",
+  "subtopic": "",
+  "objectives": [
+   "Understand Rocks (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 569,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Population",
+  "subtopic": "",
+  "objectives": [
+   "Understand Population (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 570,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Geography",
+  "topic": "Agriculture",
+  "subtopic": "",
+  "objectives": [
+   "Understand Agriculture (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 571,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "Citizenship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Citizenship (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 572,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 573,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "Human Rights",
+  "subtopic": "",
+  "objectives": [
+   "Understand Human Rights (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 574,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "Drug Abuse",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drug Abuse (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 575,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Civic Education",
+  "topic": "National Values",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Values (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 576,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "Citizenship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Citizenship (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 577,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 578,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "Human Rights",
+  "subtopic": "",
+  "objectives": [
+   "Understand Human Rights (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 579,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "Drug Abuse",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drug Abuse (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 580,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Civic Education",
+  "topic": "National Values",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Values (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 581,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "Citizenship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Citizenship (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 582,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 583,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "Human Rights",
+  "subtopic": "",
+  "objectives": [
+   "Understand Human Rights (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 584,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "Drug Abuse",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drug Abuse (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 585,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Civic Education",
+  "topic": "National Values",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Values (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 586,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Word Processing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Word Processing (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 587,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Internet Basics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Internet Basics (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 588,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Programming Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Programming Intro (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 589,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Data Representation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Data Representation (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 590,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Computer Studies",
+  "topic": "Spreadsheets",
+  "subtopic": "",
+  "objectives": [
+   "Understand Spreadsheets (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 591,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Word Processing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Word Processing (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 592,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Internet Basics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Internet Basics (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 593,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Programming Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Programming Intro (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 594,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Data Representation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Data Representation (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 595,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Computer Studies",
+  "topic": "Spreadsheets",
+  "subtopic": "",
+  "objectives": [
+   "Understand Spreadsheets (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 596,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Word Processing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Word Processing (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 597,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Internet Basics",
+  "subtopic": "",
+  "objectives": [
+   "Understand Internet Basics (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 598,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Programming Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand Programming Intro (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 599,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Data Representation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Data Representation (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 600,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Computer Studies",
+  "topic": "Spreadsheets",
+  "subtopic": "",
+  "objectives": [
+   "Understand Spreadsheets (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 601,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "Demand & Supply",
+  "subtopic": "",
+  "objectives": [
+   "Understand Demand & Supply (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 602,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "Inflation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inflation (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 603,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "Money & Banking",
+  "subtopic": "",
+  "objectives": [
+   "Understand Money & Banking (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 604,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "Market Structures",
+  "subtopic": "",
+  "objectives": [
+   "Understand Market Structures (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 605,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Economics",
+  "topic": "National Income",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Income (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 606,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "Demand & Supply",
+  "subtopic": "",
+  "objectives": [
+   "Understand Demand & Supply (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 607,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "Inflation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inflation (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 608,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "Money & Banking",
+  "subtopic": "",
+  "objectives": [
+   "Understand Money & Banking (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 609,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "Market Structures",
+  "subtopic": "",
+  "objectives": [
+   "Understand Market Structures (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 610,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Economics",
+  "topic": "National Income",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Income (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 611,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "Demand & Supply",
+  "subtopic": "",
+  "objectives": [
+   "Understand Demand & Supply (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 612,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "Inflation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Inflation (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 613,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "Money & Banking",
+  "subtopic": "",
+  "objectives": [
+   "Understand Money & Banking (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 614,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "Market Structures",
+  "subtopic": "",
+  "objectives": [
+   "Understand Market Structures (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 615,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Economics",
+  "topic": "National Income",
+  "subtopic": "",
+  "objectives": [
+   "Understand National Income (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 616,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "Trade",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 617,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "Business Documents",
+  "subtopic": "",
+  "objectives": [
+   "Understand Business Documents (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 618,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "Insurance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Insurance (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 619,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "Warehousing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Warehousing (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 620,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Commerce",
+  "topic": "E-commerce Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand E-commerce Intro (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 621,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "Trade",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 622,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "Business Documents",
+  "subtopic": "",
+  "objectives": [
+   "Understand Business Documents (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 623,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "Insurance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Insurance (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 624,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "Warehousing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Warehousing (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 625,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Commerce",
+  "topic": "E-commerce Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand E-commerce Intro (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 626,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "Trade",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 627,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "Business Documents",
+  "subtopic": "",
+  "objectives": [
+   "Understand Business Documents (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 628,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "Insurance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Insurance (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 629,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "Warehousing",
+  "subtopic": "",
+  "objectives": [
+   "Understand Warehousing (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 630,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Commerce",
+  "topic": "E-commerce Intro",
+  "subtopic": "",
+  "objectives": [
+   "Understand E-commerce Intro (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 631,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Double Entry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Double Entry (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 632,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Trial Balance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trial Balance (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 633,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Final Accounts",
+  "subtopic": "",
+  "objectives": [
+   "Understand Final Accounts (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 634,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Bank Reconciliation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Bank Reconciliation (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 635,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Financial Accounting",
+  "topic": "Depreciation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Depreciation (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 636,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Double Entry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Double Entry (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 637,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Trial Balance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trial Balance (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 638,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Final Accounts",
+  "subtopic": "",
+  "objectives": [
+   "Understand Final Accounts (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 639,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Bank Reconciliation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Bank Reconciliation (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 640,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Financial Accounting",
+  "topic": "Depreciation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Depreciation (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 641,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Double Entry",
+  "subtopic": "",
+  "objectives": [
+   "Understand Double Entry (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 642,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Trial Balance",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trial Balance (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 643,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Final Accounts",
+  "subtopic": "",
+  "objectives": [
+   "Understand Final Accounts (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 644,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Bank Reconciliation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Bank Reconciliation (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 645,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Financial Accounting",
+  "topic": "Depreciation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Depreciation (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 646,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "Arms of Government",
+  "subtopic": "",
+  "objectives": [
+   "Understand Arms of Government (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 647,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "Federalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Federalism (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 648,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "ECOWAS",
+  "subtopic": "",
+  "objectives": [
+   "Understand ECOWAS (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 649,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 650,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Government",
+  "topic": "Political Parties",
+  "subtopic": "",
+  "objectives": [
+   "Understand Political Parties (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 651,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "Arms of Government",
+  "subtopic": "",
+  "objectives": [
+   "Understand Arms of Government (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 652,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "Federalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Federalism (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 653,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "ECOWAS",
+  "subtopic": "",
+  "objectives": [
+   "Understand ECOWAS (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 654,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 655,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Government",
+  "topic": "Political Parties",
+  "subtopic": "",
+  "objectives": [
+   "Understand Political Parties (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 656,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "Arms of Government",
+  "subtopic": "",
+  "objectives": [
+   "Understand Arms of Government (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 657,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "Federalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Federalism (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 658,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "ECOWAS",
+  "subtopic": "",
+  "objectives": [
+   "Understand ECOWAS (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 659,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "Democracy",
+  "subtopic": "",
+  "objectives": [
+   "Understand Democracy (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 660,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Government",
+  "topic": "Political Parties",
+  "subtopic": "",
+  "objectives": [
+   "Understand Political Parties (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 661,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "Prose",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prose (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 662,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "Poetry Devices",
+  "subtopic": "",
+  "objectives": [
+   "Understand Poetry Devices (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 663,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "Drama",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drama (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 664,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "Figures of Speech",
+  "subtopic": "",
+  "objectives": [
+   "Understand Figures of Speech (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 665,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Literature-in-English",
+  "topic": "African Novels",
+  "subtopic": "",
+  "objectives": [
+   "Understand African Novels (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 666,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "Prose",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prose (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 667,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "Poetry Devices",
+  "subtopic": "",
+  "objectives": [
+   "Understand Poetry Devices (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 668,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "Drama",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drama (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 669,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "Figures of Speech",
+  "subtopic": "",
+  "objectives": [
+   "Understand Figures of Speech (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 670,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Literature-in-English",
+  "topic": "African Novels",
+  "subtopic": "",
+  "objectives": [
+   "Understand African Novels (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 671,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "Prose",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prose (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 672,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "Poetry Devices",
+  "subtopic": "",
+  "objectives": [
+   "Understand Poetry Devices (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 673,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "Drama",
+  "subtopic": "",
+  "objectives": [
+   "Understand Drama (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 674,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "Figures of Speech",
+  "subtopic": "",
+  "objectives": [
+   "Understand Figures of Speech (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 675,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Literature-in-English",
+  "topic": "African Novels",
+  "subtopic": "",
+  "objectives": [
+   "Understand African Novels (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 676,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Colonialism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Colonialism (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 677,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Independence Movements",
+  "subtopic": "",
+  "objectives": [
+   "Understand Independence Movements (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 678,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Military Rule",
+  "subtopic": "",
+  "objectives": [
+   "Understand Military Rule (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 679,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Trade History",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade History (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 680,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "History",
+  "topic": "Nationalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Nationalism (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 681,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Colonialism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Colonialism (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 682,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Independence Movements",
+  "subtopic": "",
+  "objectives": [
+   "Understand Independence Movements (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 683,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Military Rule",
+  "subtopic": "",
+  "objectives": [
+   "Understand Military Rule (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 684,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Trade History",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade History (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 685,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "History",
+  "topic": "Nationalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Nationalism (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 686,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Colonialism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Colonialism (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 687,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Independence Movements",
+  "subtopic": "",
+  "objectives": [
+   "Understand Independence Movements (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 688,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Military Rule",
+  "subtopic": "",
+  "objectives": [
+   "Understand Military Rule (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 689,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Trade History",
+  "subtopic": "",
+  "objectives": [
+   "Understand Trade History (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 690,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "History",
+  "topic": "Nationalism",
+  "subtopic": "",
+  "objectives": [
+   "Understand Nationalism (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 691,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Creation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Creation (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 692,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Parables",
+  "subtopic": "",
+  "objectives": [
+   "Understand Parables (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 693,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Sermon on the Mount",
+  "subtopic": "",
+  "objectives": [
+   "Understand Sermon on the Mount (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 694,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Early Church",
+  "subtopic": "",
+  "objectives": [
+   "Understand Early Church (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 695,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Christian Religious Studies",
+  "topic": "Faith & Works",
+  "subtopic": "",
+  "objectives": [
+   "Understand Faith & Works (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 696,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Creation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Creation (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 697,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Parables",
+  "subtopic": "",
+  "objectives": [
+   "Understand Parables (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 698,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Sermon on the Mount",
+  "subtopic": "",
+  "objectives": [
+   "Understand Sermon on the Mount (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 699,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Early Church",
+  "subtopic": "",
+  "objectives": [
+   "Understand Early Church (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 700,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Christian Religious Studies",
+  "topic": "Faith & Works",
+  "subtopic": "",
+  "objectives": [
+   "Understand Faith & Works (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 701,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Creation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Creation (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 702,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Parables",
+  "subtopic": "",
+  "objectives": [
+   "Understand Parables (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 703,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Sermon on the Mount",
+  "subtopic": "",
+  "objectives": [
+   "Understand Sermon on the Mount (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 704,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Early Church",
+  "subtopic": "",
+  "objectives": [
+   "Understand Early Church (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 705,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Christian Religious Studies",
+  "topic": "Faith & Works",
+  "subtopic": "",
+  "objectives": [
+   "Understand Faith & Works (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 706,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Five Pillars",
+  "subtopic": "",
+  "objectives": [
+   "Understand Five Pillars (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 707,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Quranic Revelation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Quranic Revelation (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 708,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Hadith",
+  "subtopic": "",
+  "objectives": [
+   "Understand Hadith (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 709,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Prophethood",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prophethood (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 710,
+  "exam": "JAMB",
+  "student_class": "SS1",
+  "subject": "Islamic Religious Studies",
+  "topic": "Worship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Worship (JAMB SS1)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 711,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Five Pillars",
+  "subtopic": "",
+  "objectives": [
+   "Understand Five Pillars (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 712,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Quranic Revelation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Quranic Revelation (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 713,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Hadith",
+  "subtopic": "",
+  "objectives": [
+   "Understand Hadith (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 714,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Prophethood",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prophethood (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 715,
+  "exam": "JAMB",
+  "student_class": "SS2",
+  "subject": "Islamic Religious Studies",
+  "topic": "Worship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Worship (JAMB SS2)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 716,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Five Pillars",
+  "subtopic": "",
+  "objectives": [
+   "Understand Five Pillars (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 717,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Quranic Revelation",
+  "subtopic": "",
+  "objectives": [
+   "Understand Quranic Revelation (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 718,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Hadith",
+  "subtopic": "",
+  "objectives": [
+   "Understand Hadith (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 719,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Prophethood",
+  "subtopic": "",
+  "objectives": [
+   "Understand Prophethood (JAMB SS3)"
+  ],
+  "prerequisites": []
+ },
+ {
+  "id": 720,
+  "exam": "JAMB",
+  "student_class": "SS3",
+  "subject": "Islamic Religious Studies",
+  "topic": "Worship",
+  "subtopic": "",
+  "objectives": [
+   "Understand Worship (JAMB SS3)"
+  ],
+  "prerequisites": []
+ }
+]
