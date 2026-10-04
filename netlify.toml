@@ -1,0 +1,8 @@
+# Netlify auto-deploy. Base directory is set in the Netlify UI to `web`.
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+# Backend API base. Set the real value in Netlify UI:
+# Site settings -> Environment variables -> NEXT_PUBLIC_API = <your backend URL>
+# (Leave unset for local dev, which defaults to http://localhost:8000.)
