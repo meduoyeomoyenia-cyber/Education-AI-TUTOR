@@ -1,5 +1,6 @@
-# Netlify auto-deploy. Base directory is set in the Netlify UI to `web`.
+# Netlify auto-deploy config (repo root). No UI build config needed.
 [build]
+  base = "web"
   command = "npm run build"
   publish = ".next"
 
