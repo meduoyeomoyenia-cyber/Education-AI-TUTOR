@@ -1,10 +1,12 @@
 """Seed DB from content/*.json. Run: python -m backend.app.seed"""
-import json, pathlib
+import json
+import sys as _sys
+from pathlib import Path as _Path
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 from .main import engine
 from .models import Base, SyllabusNode, Question, Lesson, Topic
-HERE = pathlib.Path("content")
+HERE = _Path(__file__).resolve().parents[2] / "content"  # repo root/content (works locally + Render)
 
 def _topic_id(s, subject: str, topic: str):
     t = s.execute(select(Topic).where(
