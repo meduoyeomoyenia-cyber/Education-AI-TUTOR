@@ -16,6 +16,9 @@ __pycache__/
 .pytest_cache/
 # unrelated embedded project (has its own repo)
 /income-tracker/
+# Android signing key — NEVER commit. Back it up offline; updates need the same key.
+android/*.keystore
+android/*.jks
 # OS
 .DS_Store
 Thumbs.db
