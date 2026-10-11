@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
       <header className="py-4 flex justify-between items-center gap-2 flex-wrap">
         <b>🎓 AI Tutor</b>
         <InstallButton />
-        <nav className="flex gap-2 text-sm"><a href="/">Learn</a><a href="/practice">Practice</a><a href="/exam">Exam</a><a href="/revision">Revise</a><a href="/onboarding">Setup</a></nav>
+        <nav className="flex gap-2 text-sm"><a href="/">Learn</a><a href="/practice">Practice</a><a href="/exam">Exam</a><a href="/revision">Revise</a><a href="/onboarding">Setup</a><a href="/signin" className="font-bold">Sign in</a></nav>
       </header>
       <main className="pb-20 md:pb-10">{children}</main>
       <nav className="fixed bottom-0 left-0 right-0 bg-white border-t flex justify-around py-3 text-xs md:hidden">
