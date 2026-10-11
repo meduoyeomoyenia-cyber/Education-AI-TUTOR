@@ -96,7 +96,8 @@ def _import_out(r):
     return {"id": r.id, "question_text": r.question_text, "options": r.options, "answer": r.answer,
             "explanation": r.explanation, "subject": r.subject, "topic": r.topic, "topic_id": r.topic_id,
             "exam_style": r.exam_style, "difficulty": r.difficulty, "source": r.source,
-            "source_reference": r.source_reference, "license": r.license, "status": r.status,
+            "source_reference": r.source_reference, "license": r.license,
+            "provider_meta": r.provider_meta, "status": r.status,
             "validation_status": r.validation_status, "validation_notes": r.validation_notes,
             "reviewer_notes": r.reviewer_notes}
 

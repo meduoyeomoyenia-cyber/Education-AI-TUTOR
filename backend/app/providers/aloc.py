@@ -113,6 +113,7 @@ class AlocProvider(QuestionProvider):
             "source": "aloc",
             "source_reference": str(raw.get("id") or raw.get("question_id") or ""),
             "license": os.getenv("ALOC_LICENSE", ""),
+            "provider_meta": {"provenance": raw["provenance"]} if raw.get("provenance") is not None else None,
         }
 
 

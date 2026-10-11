@@ -103,6 +103,7 @@ class QuestionImport(Base):
     source = Column(String(128), default="")
     source_reference = Column(String(256), default="")
     license = Column(String(128), default="")
+    provider_meta = Column(JSON, nullable=True)  # raw provider origin evidence, e.g. {"provenance": ...}
     status = Column(String(16), default="IMPORTED", index=True)
     validation_status = Column(String(8), default="FAIL")
     validation_notes = Column(Text, default="")

@@ -5,6 +5,7 @@ from sqlalchemy.orm import Session
 from backend.app.main import app, engine
 from backend.app.models import Question, QuestionImport, Topic
 from backend.app.providers.aloc import AlocProvider
+from backend.app.providers.base import QuestionProvider
 c = TestClient(app)
 TAG = "ALOCTEST"
 
@@ -67,3 +68,52 @@ def test_10_production_untouched():
     with Session(engine) as s:
         assert s.execute(select(Question).where(Question.stem.like(f"{TAG}%"))).scalars().first() is None
         assert s.execute(select(Question).where(Question.source == "aloc")).scalars().first() is None
+
+
+def test_provenance_preserved_verbatim():
+    from backend.app.providers.aloc import AlocProvider
+    n = AlocProvider(api_key="k", base_url="https://dev.aloc.com.ng").normalize(
+        {"text": "S?", "options": ["P", "Q"], "correctAnswer": "Q",
+         "id": "PX", "topic": "Photosynthesis",
+         "provenance": {"origin": "ALOC", "year": 2021}}, "Biology", "NECO")
+    assert n["provider_meta"] == {"provenance": {"origin": "ALOC", "year": 2021}}
+    assert n["source"] == "aloc" and n["source_reference"] == "PX" and n["license"] == ""
+
+
+def test_provenance_missing_stays_none():
+    from backend.app.providers.aloc import AlocProvider
+    n = AlocProvider(api_key="k", base_url="https://dev.aloc.com.ng").normalize(
+        {"text": "S?", "options": ["P", "Q"], "correctAnswer": "Q", "id": "PY",
+         "topic": "Photosynthesis"}, "Biology", "NECO")
+    assert n["provider_meta"] is None
+
+
+def test_provenance_persisted_and_others_unaffected():
+    from backend.app.providers import base as _base
+
+    class PlainProvider(QuestionProvider):
+        name = "plain-test"
+        def fetch(self, subject, exam, topic=None, limit=20):
+            return [{"q": 1}]
+        def normalize(self, raw, subject, exam):
+            return {"question_text": f"{TAG} plain?", "options": ["A", "B"], "answer": "A",
+                    "subject": "Biology", "topic": "Photosynthesis", "exam_style": "NECO",
+                    "source": "plain-src", "source_reference": "p1", "license": "licensed"}
+    _base._PROVIDERS["plain-test"] = PlainProvider()
+    try:
+        out = c.post("/question-imports/batch", json={"items": [{
+            "question_text": f"{TAG} meta persist?", "options": ["A", "B"], "answer": "A",
+            "subject": "Biology", "topic": "Photosynthesis", "exam_style": "NECO",
+            "source": "s", "source_reference": "r", "license": "L",
+            "provider_meta": {"provenance": "kept"}}]}).json()
+        rid = out[0]["id"]
+        got = c.get(f"/question-imports/{rid}").json()
+        assert got["provider_meta"] == {"provenance": "kept"}
+        with Session(engine) as s:
+            row = s.get(QuestionImport, rid)
+            assert row.provider_meta == {"provenance": "kept"}  # really in DB, not just response
+        r2 = c.post("/providers/plain-test/import",
+                    json={"subject": "Biology", "exam": "NECO", "limit": 1}).json()
+        assert r2["staged"][0]["provider_meta"] is None  # non-ALOC providers unaffected
+    finally:
+        del _base._PROVIDERS["plain-test"]

@@ -20,6 +20,7 @@ Range: 360px phones → desktop. Text-first low-bandwidth.
 - [x] ALOC URL fix — base https://dev.aloc.com.ng + configurable path, X-API-Key, no doubled path — VERIFIED: 39/39 pytest, dev.db untouched, build passes
 - [x] ALOC mapping fix — text/correctAnswer/options/id mapping, section/category candidates, topic-less rows flagged — VERIFIED: 46/46 pytest ×2 runs, dev.db untouched, build passes
 - [x] ALOC live test #1 — 5 rows staged NEEDS_REVIEW, production/attempts/mastery untouched — VERIFIED: 48/48 pytest, build passes
+- [x] ALOC provenance preservation — provider_meta JSON on staging, persisted + review-visible — VERIFIED: 51/51 pytest, dev.db untouched, build passes
 - [x] Phase 4 — Tutor prompts + guardrails (`backend/app/tutor/`) — VERIFIED: 2 passed (5 langs, hint/explain/guardrail)
 - [x] Phase 5 — Frontend MVP scaffold Next.js (`web/`) — VERIFIED: npm install + npm run build succeeds (5 routes, First Load ~88kB)
 - [x] Phase 6 — Mastery + plan engine (`backend/app/mastery.py`) — VERIFIED: 3 passed

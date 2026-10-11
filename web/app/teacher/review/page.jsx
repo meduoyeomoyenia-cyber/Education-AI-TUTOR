@@ -10,7 +10,8 @@ function Inner() {
   const [items, setItems] = useState(null); const [err, setErr] = useState(false);
   const [filter, setFilter] = useState('PENDING'); const [notes, setNotes] = useState({});
   const load = () => { setErr(false);
-    const p = filter === 'ALL' ? '/question-imports' : '/question-imports?status=' + filter;
+    // PENDING has no server status; fetch all and filter client-side below
+    const p = (filter === 'PENDING' || filter === 'ALL') ? '/question-imports' : '/question-imports?status=' + filter;
     api(p).then(setItems).catch(() => setErr(true)); };
   useEffect(load, [filter]);
   const act = async (id, action) => {
@@ -31,6 +32,7 @@ function Inner() {
       <p className="text-sm">Answer: {q.answer}</p>
       {q.explanation && <p className="text-sm text-gray-600">Why: {q.explanation}</p>}
       <p className="text-xs">Validation: <b>{q.validation_status}</b> — {q.validation_notes}</p>
+      {q.provider_meta && q.provider_meta.provenance && (<p className="text-xs">Provider origin: {String(q.provider_meta.provenance)}</p>)}
       <p className="text-xs">Status: <b>{q.status}</b>{q.reviewer_notes ? ` — reviewer: ${q.reviewer_notes}` : ''}</p>
       <input placeholder="Reviewer notes (optional)" value={notes[q.id] || ''} onChange={e => setNotes({ ...notes, [q.id]: e.target.value })} className="border rounded-lg p-2 text-sm w-full" />
       <div className="flex gap-2">

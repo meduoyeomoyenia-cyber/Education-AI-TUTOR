@@ -23,6 +23,8 @@ def ensure_imports_schema():
         cols = [r[1] for r in conn.execute(text("PRAGMA table_info(question_imports)"))]
         if "license" not in cols:
             conn.execute(text("ALTER TABLE question_imports ADD COLUMN license VARCHAR(128)"))
+        if "provider_meta" not in cols:
+            conn.execute(text("ALTER TABLE question_imports ADD COLUMN provider_meta JSON"))
         qcols = [r[1] for r in conn.execute(text("PRAGMA table_info(questions)"))]
         if "source_reference" not in qcols:
             conn.execute(text("ALTER TABLE questions ADD COLUMN source_reference VARCHAR(256)"))
@@ -125,6 +127,7 @@ def import_batch(db: Session, items: list) -> list:
             source=item.get("source") or "",
             source_reference=item.get("source_reference") or "",
             license=item.get("license") or "",
+            provider_meta=item.get("provider_meta"),
             status="IMPORTED" if ok else "NEEDS_REVIEW",
             validation_status="PASS" if ok else "FAIL",
             validation_notes=notes,
