@@ -2,7 +2,7 @@
 [build]
   base = "web"
   command = "npm run build"
-  publish = ".next"
+  publish = "out"
 
 # Backend API base. Set the real value in Netlify UI:
 # Site settings -> Environment variables -> NEXT_PUBLIC_API = <your backend URL>
