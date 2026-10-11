@@ -16,6 +16,10 @@ __pycache__/
 .pytest_cache/
 # unrelated embedded project (has its own repo)
 /income-tracker/
+# Android build cache/outputs (regenerable; APKs ship via web/public/downloads)
+/android/.gradle/
+/android/app/build/
+/android/app-release-unsigned-aligned.apk
 # Android signing key — NEVER commit. Back it up offline; updates need the same key.
 android/*.keystore
 android/*.jks
