@@ -1,7 +1,7 @@
 'use client';
 import { useEffect, useState, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
-import { getQuestions } from '../../lib/api';
+import { getQuestions, apiPost } from '../../lib/api';
 import { Loading, Empty, ErrorBox } from '../../components/states';
 const EXAMS = ['All', 'WAEC', 'JAMB', 'NECO'];
 function Inner() {
@@ -15,8 +15,8 @@ function Inner() {
     getQuestions({ ...(slug ? { topic_slug: slug } : { topic }), ...(exam !== 'All' ? { exam } : {}) }).then(setQs).catch(() => setErr(true)); };
   useEffect(load, [slug, topic, exam]);
   const submit = async (ans) => {
-    const r = await fetch(`${process.env.NEXT_PUBLIC_API || 'http://localhost:8000'}/attempts`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ question_id: qs[i].id, answer: ans }) });
-    const j = await r.json(); setMsg(j.correct ? '✅ Correct' : `❌ ${j.hint || 'Try again'}`);
+    const j = await apiPost('/attempts', { question_id: qs[i].id, answer: ans }).catch(() => ({ error: 'Network error.' }));
+    setMsg(j.error ? `❌ ${j.error}` : j.correct ? '✅ Correct' : `❌ ${j.hint || 'Try again'}`);
     if (j.correct) setTimeout(() => { setI(i + 1); setMsg(''); }, 800);
   };
   if (err) return <ErrorBox onRetry={load} />; if (!qs) return <Loading />;

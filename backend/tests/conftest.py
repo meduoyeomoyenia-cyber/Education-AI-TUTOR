@@ -13,6 +13,7 @@ _TEST_DB = os.path.join(tempfile.gettempdir(), "edu_tutor_test.db").replace("\\"
 if os.path.exists(_TEST_DB):
     os.remove(_TEST_DB)
 os.environ["DATABASE_URL"] = f"sqlite:///{_TEST_DB}"
+os.environ["AUTH_DISABLED"] = "1"  # gate covered by test_auth_gate.py with the flag off
 
 import pytest
 

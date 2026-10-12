@@ -32,6 +32,27 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+PUBLIC_PATHS = ("/health", "/subjects", "/topics", "/openapi.json", "/docs")
+PUBLIC_PREFIXES = ("/auth/", "/openapi", "/docs")
+
+
+@app.middleware("http")
+async def auth_gate(request, call_next):
+    """Sign-in gate: everything except health/auth/browse-subjects-topics needs a token.
+    Teacher staging (/question-imports, /providers) and safety reports stay public (prototype).
+    AUTH_DISABLED=1 (tests only) bypasses the gate; never set in production."""
+    from fastapi.responses import JSONResponse
+    from .auth import check_token
+    path = request.url.path
+    if (request.method == "OPTIONS" or path in PUBLIC_PATHS
+            or any(path.startswith(p) for p in PUBLIC_PREFIXES)
+            or os.getenv("AUTH_DISABLED") == "1"):
+        return await call_next(request)
+    auth = (request.headers.get("authorization") or "")
+    if auth.lower().startswith("bearer ") and check_token(auth[7:]) is not None:
+        return await call_next(request)
+    return JSONResponse(status_code=401, content={"error": "Sign in required.", "signin": "/signin"})
+
 class AttemptIn(BaseModel):
     user_id: int = 1
     question_id: int

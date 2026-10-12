@@ -79,6 +79,20 @@ def check_token(token: str):
         return None
 
 
+def require_auth(request):
+    """FastAPI dependency: validates Bearer token, returns claims. Public
+    endpoints (health, auth/*, subjects, topics) skip it."""
+    auth = (request.headers.get("authorization") or "")
+    if not auth.lower().startswith("bearer "):
+        from fastapi import HTTPException
+        raise HTTPException(status_code=401, detail="Sign in required.")
+    claims = check_token(auth[7:])
+    if claims is None:
+        from fastapi import HTTPException
+        raise HTTPException(status_code=401, detail="Invalid or expired sign-in.")
+    return claims
+
+
 def request_code(db: Session, phone: str) -> dict:
     phone = (phone or "").strip().replace(" ", "")
     if not NG_PHONE.match(phone):

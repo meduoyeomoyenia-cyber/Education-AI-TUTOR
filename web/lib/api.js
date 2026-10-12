@@ -1,26 +1,35 @@
 export const API = process.env.NEXT_PUBLIC_API || 'http://localhost:8000';
+
+export function authHeaders() {
+  if (typeof window === 'undefined') return {};
+  const t = localStorage.getItem('edu_token');
+  return t ? { Authorization: `Bearer ${t}` } : {};
+}
+
+async function apiGet(path, label) {
+  const r = await fetch(`${API}${path}`, { cache: 'no-store', headers: authHeaders() });
+  if (r.status === 401 && typeof window !== 'undefined') { window.location = '/signin'; throw new Error('signin'); }
+  if (!r.ok) throw new Error(label + ' failed'); return r.json();
+}
+
+export async function apiPost(path, body) {
+  const r = await fetch(`${API}${path}`, { method: 'POST', headers: { 'Content-Type': 'application/json', ...authHeaders() }, body: JSON.stringify(body) });
+  if (r.status === 401 && typeof window !== 'undefined') { window.location = '/signin'; throw new Error('signin'); }
+  return r.json();
+}
+
 export async function getSyllabus(p = {}) {
-  const q = new URLSearchParams(p).toString();
-  const r = await fetch(`${API}/syllabus?${q}`, { cache: 'no-store' });
-  if (!r.ok) throw new Error('syllabus failed'); return r.json();
+  return apiGet(`/syllabus?${new URLSearchParams(p).toString()}`, 'syllabus');
 }
 export async function getQuestions(p = {}) {
-  const q = new URLSearchParams(p).toString();
-  const r = await fetch(`${API}/questions?${q}`, { cache: 'no-store' });
-  if (!r.ok) throw new Error('questions failed'); return r.json();
+  return apiGet(`/questions?${new URLSearchParams(p).toString()}`, 'questions');
 }
 export async function getLesson(p = {}) {
-  const q = new URLSearchParams(p).toString();
-  const r = await fetch(`${API}/lessons?${q}`, { cache: 'no-store' });
-  if (!r.ok) throw new Error('lesson failed'); return r.json();
+  return apiGet(`/lessons?${new URLSearchParams(p).toString()}`, 'lesson');
 }
 export async function getSubjects(p = {}) {
-  const q = new URLSearchParams(p).toString();
-  const r = await fetch(`${API}/subjects?${q}`, { cache: 'no-store' });
-  if (!r.ok) throw new Error('subjects failed'); return r.json();
+  return apiGet(`/subjects?${new URLSearchParams(p).toString()}`, 'subjects');
 }
 export async function getTopics(p = {}) {
-  const q = new URLSearchParams(p).toString();
-  const r = await fetch(`${API}/topics?${q}`, { cache: 'no-store' });
-  if (!r.ok) throw new Error('topics failed'); return r.json();
+  return apiGet(`/topics?${new URLSearchParams(p).toString()}`, 'topics');
 }
