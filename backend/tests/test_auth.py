@@ -61,3 +61,15 @@ def test_reused_code_rejected():
     code = _request()["dev_code"]
     assert "token" in c.post("/auth/verify", json={"phone": PHONE, "code": code}).json()
     assert "error" in c.post("/auth/verify", json={"phone": PHONE, "code": code}).json()
+
+
+def test_simple_login_no_otp():
+    r = c.post("/auth/login", json={"phone": "08055556666", "name": "NoOtp"}).json()
+    assert "token" in r and r["profile"]["phone"] == "08055556666" and r["profile"]["name"] == "NoOtp"
+    claims = check_token(r["token"])
+    assert claims and claims["phone"] == "08055556666"
+    h = {"Authorization": f"Bearer {r['token']}"}
+    assert c.get("/syllabus", headers=h).status_code == 200
+    assert "error" in c.post("/auth/login", json={"phone": "bad"}).json()
+    r2 = c.post("/auth/login", json={"phone": "08055556666"}).json()
+    assert r2["profile"]["name"] == "NoOtp"  # name kept, same account

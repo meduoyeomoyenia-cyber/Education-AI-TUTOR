@@ -135,3 +135,22 @@ def verify_code(db: Session, phone: str, code: str):
         db.commit()
     return {"token": make_token(user.id, phone),
             "profile": {"id": user.id, "phone": user.phone, "name": user.full_name or ""}}
+
+
+def simple_login(db: Session, phone: str, name: str = "") -> dict:
+    """One-step sign-in: name + phone, no OTP code. Issues the same token."""
+    from .models import User
+    phone = (phone or "").strip().replace(" ", "")
+    if not NG_PHONE.match(phone):
+        raise ValueError("Enter a valid 11-digit Nigerian phone number, e.g. 0803...")
+    user = db.execute(select(User).where(User.phone == phone)).scalars().first()
+    if user is None:
+        user = User(phone=phone, full_name=(name or "").strip()[:128])
+        db.add(user)
+        db.commit()
+        db.refresh(user)
+    elif name.strip() and not user.full_name:
+        user.full_name = name.strip()[:128]
+        db.commit()
+    return {"token": make_token(user.id, phone),
+            "profile": {"id": user.id, "phone": user.phone, "name": user.full_name or ""}}

@@ -410,6 +410,20 @@ def auth_verify(v: OtpVerifyIn):
         except ValueError as e:
             return {"error": str(e)}
 
+class LoginIn(BaseModel):
+    phone: str
+    name: str = ""
+
+@app.post("/auth/login")
+def auth_login(v: LoginIn):
+    """One-step sign-in (name + phone, no OTP). Issues the same token."""
+    from .auth import simple_login
+    with Session(engine) as s:
+        try:
+            return simple_login(s, v.phone, v.name)
+        except ValueError as e:
+            return {"error": str(e)}
+
 class SafetyIn(BaseModel):
     text: str = ""
 
