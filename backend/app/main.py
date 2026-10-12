@@ -15,10 +15,12 @@ from typing import List, Optional
 from sqlalchemy import create_engine, select
 from sqlalchemy.orm import Session
 from .models import Base, SyllabusNode, Question, Attempt, Mastery
+from .auth import Base as AuthBase
 
 DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./dev.db")
 engine = create_engine(DATABASE_URL, future=True)
 Base.metadata.create_all(engine)
+AuthBase.metadata.create_all(engine)
 
 app = FastAPI(title="Education AI Tutor API", version="0.1.0")
 
@@ -352,6 +354,40 @@ class KbIn(BaseModel):
 def media_log(v: KbIn):
     from .media import log_kb
     return log_kb(v.session, v.kb, v.media)
+
+class OtpRequestIn(BaseModel):
+    phone: str
+
+@app.post("/auth/request")
+def auth_request(v: OtpRequestIn):
+    from .auth import request_code
+    with Session(engine) as s:
+        try:
+            return request_code(s, v.phone)
+        except ValueError as e:
+            return {"error": str(e)}
+
+class OtpVerifyIn(BaseModel):
+    phone: str
+    code: str
+    name: str = ""
+
+@app.post("/auth/verify")
+def auth_verify(v: OtpVerifyIn):
+    from .auth import verify_code
+    with Session(engine) as s:
+        try:
+            out = verify_code(s, v.phone, v.code)
+            if v.name.strip():
+                from .models import User
+                user = s.get(User, out["profile"]["id"])
+                if user and not user.full_name:
+                    user.full_name = v.name.strip()[:128]
+                    s.commit()
+                    out["profile"]["name"] = user.full_name
+            return out
+        except ValueError as e:
+            return {"error": str(e)}
 
 class SafetyIn(BaseModel):
     text: str = ""
