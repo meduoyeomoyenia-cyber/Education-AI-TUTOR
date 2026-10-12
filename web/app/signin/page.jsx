@@ -1,6 +1,6 @@
 'use client';
 import { useState } from 'react';
-const API = process.env.NEXT_PUBLIC_API || 'http://localhost:8000';
+const API = 'https://education-ai-tutor-1-i00t.onrender.com';
 
 export default function SignIn() {
   const [phone, setPhone] = useState('');
