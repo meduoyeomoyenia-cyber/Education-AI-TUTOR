@@ -1,4 +1,4 @@
-export const API = process.env.NEXT_PUBLIC_API || 'http://localhost:8000';
+export const API = 'https://education-ai-tutor-1-i00t.onrender.com';
 
 export function authHeaders() {
   if (typeof window === 'undefined') return {};
