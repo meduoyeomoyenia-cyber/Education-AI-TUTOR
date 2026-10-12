@@ -1,6 +1,6 @@
 /* Education AI Tutor service worker. App-shell cache + runtime cache for
    same-origin GETs. API POSTs and cross-origin requests always go to network. */
-const CACHE = 'edu-tutor-v2';
+const CACHE = 'edu-tutor-v3';
 const SHELL = ['/', '/signin', '/manifest.webmanifest', '/icons/icon-192.png', '/icons/icon-512.png'];
 
 self.addEventListener('install', (e) => {
