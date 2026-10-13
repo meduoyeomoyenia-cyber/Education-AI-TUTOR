@@ -22,7 +22,10 @@ def migrate_schema():
     """create_all cannot ALTER existing tables, so add topic_id columns explicitly."""
     from sqlalchemy import text
     with engine.begin() as conn:
+        existing = {r[0] for r in conn.execute(text("SELECT name FROM sqlite_master WHERE type='table'"))} if "sqlite" in str(engine.url) else None
         for tbl in ("syllabus_nodes", "lessons", "questions", "mastery"):
+            if existing is not None and tbl not in existing:
+                continue  # fresh DB: create_all below builds the full schema
             cols = [r[1] for r in conn.execute(text(f"PRAGMA table_info({tbl})"))]
             if "topic_id" not in cols:
                 conn.execute(text(f"ALTER TABLE {tbl} ADD COLUMN topic_id INTEGER"))

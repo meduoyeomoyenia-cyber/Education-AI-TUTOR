@@ -19,6 +19,32 @@ def test_health_reports_db_type():
     assert body["ok"] is True and body["db"] in ("sqlite", "postgresql")
 
 
+def test_health_db_ready_is_real():
+    from fastapi.testclient import TestClient
+    from backend.app.main import app, db_is_ready
+    ready, _ = db_is_ready()
+    assert ready is True  # test SQLite DB answers SELECT 1
+    assert TestClient(app).get("/health").json()["db_ready"] is True
+
+
+def test_lifespan_initializes_schema():
+    import sqlite3
+    from fastapi.testclient import TestClient
+    from backend.app.main import app, DATABASE_URL
+    path = DATABASE_URL.split("sqlite:///")[-1]
+    with TestClient(app):
+        pass
+    tables = {r[0] for r in sqlite3.connect(path).execute(
+        "SELECT name FROM sqlite_master WHERE type='table'")}
+    assert {"users", "syllabus_nodes", "questions", "lessons", "topics", "otp_codes"} <= tables
+
+
+def test_engine_options_postgres_only():
+    from backend.app.main import _engine_options
+    assert _engine_options("postgresql://u:p@h/db") == {"connect_args": {"connect_timeout": 10}}
+    assert _engine_options("sqlite:///./dev.db") == {}
+
+
 def test_seed_inputs_exist_and_parse():
     import json
     from pathlib import Path

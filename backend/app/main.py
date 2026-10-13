@@ -26,9 +26,16 @@ def normalize_db_url(url: str) -> str:
 
 
 DATABASE_URL = normalize_db_url(os.getenv("DATABASE_URL", "sqlite:///./dev.db"))
-engine = create_engine(DATABASE_URL, future=True)
-Base.metadata.create_all(engine)
-AuthBase.metadata.create_all(engine)
+
+
+def _engine_options(url: str) -> dict:
+    """Finite connect timeout for PostgreSQL only. SQLite takes no options."""
+    if url.startswith("postgresql"):
+        return {"connect_args": {"connect_timeout": 10}}
+    return {}
+
+
+engine = create_engine(DATABASE_URL, future=True, **_engine_options(DATABASE_URL))
 if DATABASE_URL.startswith("sqlite:"):
     import logging
     logging.getLogger("uvicorn.error").warning(
@@ -36,7 +43,34 @@ if DATABASE_URL.startswith("sqlite:"):
         + ("On Render this means data is LOST on restart: set DATABASE_URL to Postgres." if os.getenv("RENDER") else "Set DATABASE_URL for a persistent database.")
     )
 
-app = FastAPI(title="Education AI Tutor API", version="0.1.0")
+from contextlib import asynccontextmanager
+
+
+@asynccontextmanager
+async def lifespan(app):
+    """Schema setup runs here (not at import) so the server binds its port
+    immediately even if the database is slow. A failing DB never blocks boot."""
+    import logging
+    try:
+        Base.metadata.create_all(engine)
+        AuthBase.metadata.create_all(engine)
+    except Exception as e:
+        logging.getLogger("uvicorn.error").warning(f"DB schema setup failed at startup: {type(e).__name__}")
+    yield
+
+
+def db_is_ready() -> tuple:
+    """Real check per call: True only if a query succeeds right now."""
+    from sqlalchemy import text
+    try:
+        with engine.connect() as conn:
+            conn.execute(text("SELECT 1"))
+        return True, ""
+    except Exception as e:
+        return False, type(e).__name__
+
+
+app = FastAPI(title="Education AI Tutor API", version="0.1.0", lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
@@ -80,7 +114,11 @@ def mistake_type_for(correct: bool, hint_used: bool) -> str:
 
 @app.get("/health")
 def health():
-    return {"ok": True, "db": DATABASE_URL.split("://")[0]}
+    ready, error = db_is_ready()
+    body = {"ok": True, "db": DATABASE_URL.split("://")[0], "db_ready": ready}
+    if not ready:
+        body["db_error"] = error
+    return body
 
 @app.get("/syllabus")
 def syllabus(exam: Optional[str] = None, subject: Optional[str] = None, student_class: Optional[str] = Query(None, alias="class")):

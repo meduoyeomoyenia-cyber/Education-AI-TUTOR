@@ -21,7 +21,13 @@ import pytest
 @pytest.fixture(scope="session", autouse=True)
 def _seed_test_db():
     """Deterministic seed mirroring dev.db content (nodes, vetted Qs/lessons,
-    4 migrated topics, STEP 2 fixtures). Attempts/mastery start empty."""
+    4 migrated topics, STEP 2 fixtures). Attempts/mastery start empty.
+    Creates the full schema up front (lifespan only runs under `with TestClient`)."""
+    from backend.app.main import engine
+    from backend.app.models import Base
+    from backend.app.auth import Base as AuthBase
+    Base.metadata.create_all(engine)
+    AuthBase.metadata.create_all(engine)
     from backend.app import seed as seedmod
     from content.migrate_topic import migrate_schema, migrate_one
     from content.step2_fixtures import run as fixtures_run
