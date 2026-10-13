@@ -1,6 +1,6 @@
 'use client';
 import { useState } from 'react';
-const API = 'https://education-ai-tutor-1-i00t.onrender.com';
+import { API } from '../../lib/api';
 
 export default function SignIn() {
   const [phone, setPhone] = useState('');

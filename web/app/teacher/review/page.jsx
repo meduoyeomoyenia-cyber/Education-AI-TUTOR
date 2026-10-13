@@ -1,7 +1,7 @@
 'use client';
 import { useEffect, useState, Suspense } from 'react';
 import { Loading, Empty, ErrorBox } from '../../../components/states';
-const API = 'https://education-ai-tutor-1-i00t.onrender.com';
+import { API } from '../../../lib/api';
 async function api(path, opts) {
   const r = await fetch(`${API}${path}`, { cache: 'no-store', headers: { 'Content-Type': 'application/json' }, ...opts });
   if (!r.ok) throw new Error('api failed'); return r.json();

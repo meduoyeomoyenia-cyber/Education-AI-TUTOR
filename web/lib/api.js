@@ -1,4 +1,6 @@
-export const API = 'https://education-ai-tutor-1-i00t.onrender.com';
+// Production backend by default; override locally with NEXT_PUBLIC_API=http://localhost:8000
+// (e.g. in web/.env.local) or per-deployment in the Vercel dashboard.
+export const API = process.env.NEXT_PUBLIC_API || 'https://education-ai-tutor-1-i00t.onrender.com';
 
 export function authHeaders() {
   if (typeof window === 'undefined') return {};

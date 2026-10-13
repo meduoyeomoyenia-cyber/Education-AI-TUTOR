@@ -11,7 +11,7 @@ services:
           name: edu-tutor-db
           property: connectionString
       - key: FRONTEND_ORIGINS
-        value: https://education-ai-tutor.netlify.app
+        value: https://education-ai-tutor.netlify.app,https://education-ai-tutor.vercel.app,https://education-ai-tutor-git-main-meduoyeomoyenia-cyber.vercel.app
       - key: ALOC_API_KEY
         sync: false
       - key: ALOC_BASE_URL
