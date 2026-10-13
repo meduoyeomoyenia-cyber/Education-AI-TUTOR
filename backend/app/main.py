@@ -17,10 +17,24 @@ from sqlalchemy.orm import Session
 from .models import Base, SyllabusNode, Question, Attempt, Mastery
 from .auth import Base as AuthBase
 
-DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./dev.db")
+def normalize_db_url(url: str) -> str:
+    """Render's older Postgres URLs use the postgres:// scheme, which
+    SQLAlchemy 2.x rejects. Normalize to postgresql://. Pure function."""
+    if url.startswith("postgres://"):
+        return "postgresql://" + url[len("postgres://"):]
+    return url
+
+
+DATABASE_URL = normalize_db_url(os.getenv("DATABASE_URL", "sqlite:///./dev.db"))
 engine = create_engine(DATABASE_URL, future=True)
 Base.metadata.create_all(engine)
 AuthBase.metadata.create_all(engine)
+if DATABASE_URL.startswith("sqlite:"):
+    import logging
+    logging.getLogger("uvicorn.error").warning(
+        "DATABASE_URL is not set: using ephemeral local SQLite. "
+        + ("On Render this means data is LOST on restart: set DATABASE_URL to Postgres." if os.getenv("RENDER") else "Set DATABASE_URL for a persistent database.")
+    )
 
 app = FastAPI(title="Education AI Tutor API", version="0.1.0")
 
