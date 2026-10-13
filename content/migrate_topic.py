@@ -18,11 +18,13 @@ def slugify(subject: str, topic: str) -> str:
         return re.sub(r"-+", "-", s)
     return f"{clean(subject)}/{clean(topic)}"
 
-def migrate_schema():
+def migrate_schema(engine=None):
     """create_all cannot ALTER existing tables, so add topic_id columns explicitly."""
     from sqlalchemy import text
-    with engine.begin() as conn:
-        existing = {r[0] for r in conn.execute(text("SELECT name FROM sqlite_master WHERE type='table'"))} if "sqlite" in str(engine.url) else None
+    from backend.app.main import engine as _default
+    eng = engine or _default
+    with eng.begin() as conn:
+        existing = {r[0] for r in conn.execute(text("SELECT name FROM sqlite_master WHERE type='table'"))} if "sqlite" in str(eng.url) else None
         for tbl in ("syllabus_nodes", "lessons", "questions", "mastery"):
             if existing is not None and tbl not in existing:
                 continue  # fresh DB: create_all below builds the full schema
@@ -30,11 +32,13 @@ def migrate_schema():
             if "topic_id" not in cols:
                 conn.execute(text(f"ALTER TABLE {tbl} ADD COLUMN topic_id INTEGER"))
                 print(f"migrated: {tbl}.topic_id added")
-    Base.metadata.create_all(engine)  # creates topics table if missing
+    Base.metadata.create_all(eng)  # creates topics table if missing
 
-def migrate_one(subject: str, topic: str):
+def migrate_one(subject: str, topic: str, engine=None):
+    from backend.app.main import engine as _default
+    eng = engine or _default
     slug = slugify(subject, topic)
-    with Session(engine) as s:
+    with Session(eng) as s:
         t = s.execute(select(Topic).where(Topic.subject == subject, Topic.title == topic)).scalars().first()
         if t is None:
             t = Topic(subject=subject, slug=slug, title=topic)

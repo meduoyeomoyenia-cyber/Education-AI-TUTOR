@@ -29,8 +29,10 @@ TEST_LESSONS = [
      "key_points": ["[TEST] Neutral pH is 7 at 25C."], "reading_mins": 1},
 ]
 
-def run():
-    with Session(engine) as s:
+def run(engine=None):
+    from backend.app.main import engine as _default
+    eng = engine or _default
+    with Session(eng) as s:
         topics = {t.slug: t for t in s.execute(select(Topic)).scalars().all()}
         # 1. NECO question on simultaneous topic
         slug = "mathematics/algebra-simultaneous-equations"

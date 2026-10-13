@@ -110,3 +110,13 @@ class QuestionImport(Base):
     reviewer_notes = Column(Text, default="")
     created_at = Column(DateTime, default=lambda: datetime.now(timezone.utc).replace(tzinfo=None))
     updated_at = Column(DateTime, default=lambda: datetime.now(timezone.utc).replace(tzinfo=None))
+
+class SeedState(Base):
+    """One row per seed version: running | complete | failed. Guards concurrent
+    startups and prevents blind re-runs after repeated failures."""
+    __tablename__ = "seed_state"
+    version = Column(String(32), primary_key=True)
+    status = Column(String(16), default="running", index=True)
+    attempts = Column(Integer, default=0)
+    detail = Column(Text, default="")
+    updated_at = Column(DateTime, default=lambda: datetime.now(timezone.utc).replace(tzinfo=None))

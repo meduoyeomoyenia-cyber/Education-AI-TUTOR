@@ -12,11 +12,13 @@ def _topic_id(s, subject: str, topic: str):
     t = s.execute(select(Topic).where(
         Topic.subject == subject, Topic.title == topic)).scalars().first()
     return t.id if t else None
-def run():
-    Base.metadata.create_all(engine)
+def run(engine=None):
+    from .main import engine as _default
+    eng = engine or _default
+    Base.metadata.create_all(eng)
     nodes = json.loads((HERE/"syllabus.json").read_text())
     vetted = json.loads((HERE/"questions.vetted.json").read_text())
-    with Session(engine) as s:
+    with Session(eng) as s:
         if s.query(SyllabusNode).count() == 0:
             for n in nodes:
                 s.add(SyllabusNode(exam=n["exam"], student_class=n["student_class"], subject=n["subject"], topic=n["topic"], subtopic=n.get("subtopic",""), objectives=n.get("objectives",[]), prerequisites=n.get("prerequisites",[])))
@@ -30,15 +32,17 @@ def run():
                 if nid is None: continue
                 s.add(Question(node_id=nid, topic_id=_topic_id(s, vq["subject"], vq["topic"]), stem=vq["stem"], options=vq.get("options",[]), answer=vq["answer"], difficulty=vq.get("difficulty","Basic"), exam_style=vq.get("exam_style","WAEC"), source=vq.get("source","original"), license=vq.get("license","proprietary"), mistake_tags=vq.get("mistake_tags",[]), lang_variants=vq.get("lang_variants",{})))
             s.commit()
-    with Session(engine) as s:
+    with Session(eng) as s:
         print(f"nodes={s.query(SyllabusNode).count()} questions={s.query(Question).count()} lessons={s.query(Lesson).count()}")
 
 
-def seed_lessons():
+def seed_lessons(engine=None):
     """Idempotent: only adds (node, language) pairs not already present."""
     from sqlalchemy import select
+    from .main import engine as _default
+    eng = engine or _default
     lessons = json.loads((HERE / "lessons.vetted.json").read_text(encoding="utf-8"))
-    with Session(engine) as s:
+    with Session(eng) as s:
         lookup = {(r.exam, r.student_class, r.subject, r.topic): r.id for r in s.query(SyllabusNode).all()}
         added = 0
         for ls in lessons:

@@ -49,13 +49,22 @@ from contextlib import asynccontextmanager
 @asynccontextmanager
 async def lifespan(app):
     """Schema setup runs here (not at import) so the server binds its port
-    immediately even if the database is slow. A failing DB never blocks boot."""
+    immediately even if the database is slow. A failing DB never blocks boot.
+    First boot on an empty DB also seeds content once (guarded, idempotent)."""
     import logging
+    log = logging.getLogger("uvicorn.error")
     try:
         Base.metadata.create_all(engine)
         AuthBase.metadata.create_all(engine)
     except Exception as e:
-        logging.getLogger("uvicorn.error").warning(f"DB schema setup failed at startup: {type(e).__name__}")
+        log.warning(f"DB schema setup failed at startup: {type(e).__name__}")
+    try:
+        from .seed_all import ensure_seeded
+        result = ensure_seeded()
+        if result not in ("already-seeded", "seeded"):
+            log.warning(f"Content seed status at startup: {result}")
+    except Exception as e:
+        log.warning(f"Content seed check failed at startup: {type(e).__name__}")
     yield
 
 
@@ -118,6 +127,14 @@ def health():
     body = {"ok": True, "db": DATABASE_URL.split("://")[0], "db_ready": ready}
     if not ready:
         body["db_error"] = error
+    try:
+        from sqlalchemy.orm import Session as _Session
+        from .models import SeedState as _SeedState
+        with _Session(engine) as _s:
+            _row = _s.get(_SeedState, "v1")
+            body["seed_status"] = _row.status if _row else "unknown"
+    except Exception:
+        body["seed_status"] = "unknown"
     return body
 
 @app.get("/syllabus")
