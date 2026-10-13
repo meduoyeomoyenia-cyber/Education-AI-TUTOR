@@ -94,3 +94,45 @@ def test_peer_active_and_max_attempts():
         row.attempts = 3
         s.commit()
     assert ensure_seeded(eng) == "needs-human"  # cap reached: no blind retry
+
+
+def test_table_columns_uses_information_schema_on_postgres():
+    from content.migrate_topic import _table_columns
+
+    seen = []
+
+    class FakeDialect:
+        name = "postgresql"
+
+    class FakeConn:
+        dialect = FakeDialect()
+
+        def execute(self, stmt, params=None):
+            seen.append((str(stmt), params))
+            class R:
+                def fetchall(self):
+                    return [("topic_id",), ("stem",)]
+            return R()
+
+    assert _table_columns(FakeConn(), "questions") == ["topic_id", "stem"]
+    sql, params = seen[0]
+    assert "information_schema.columns" in sql and "PRAGMA" not in sql.upper()
+    assert params == {"t": "questions"}
+
+
+def test_table_columns_sqlite_missing_table_is_empty():
+    import sqlite3
+    from content.migrate_topic import _table_columns
+
+    class FakeDialect:
+        name = "sqlite"
+
+    class FakeConn:
+        dialect = FakeDialect()
+        def __init__(self, conn):
+            self._conn = conn
+        def execute(self, stmt, params=None):
+            return self._conn.execute(str(stmt))
+
+    con = sqlite3.connect(":memory:")
+    assert _table_columns(FakeConn(con), "nope") == []

@@ -5,7 +5,7 @@ Default (no args): Mathematics / Number Bases only. Idempotent. Never deletes da
 import re
 import sys, pathlib
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
-from sqlalchemy import select
+from sqlalchemy import select, text
 from sqlalchemy.orm import Session
 from backend.app.main import engine
 from backend.app.models import Base, Topic, SyllabusNode, Lesson, Question
@@ -18,17 +18,32 @@ def slugify(subject: str, topic: str) -> str:
         return re.sub(r"-+", "-", s)
     return f"{clean(subject)}/{clean(topic)}"
 
+def _table_columns(conn, table: str) -> list:
+    """Dialect-aware column listing. PRAGMA is SQLite-only; PostgreSQL uses
+    information_schema. Returns [] if the table does not exist."""
+    dialect = conn.dialect.name
+    if dialect == "sqlite":
+        try:
+            return [r[1] for r in conn.execute(text(f"PRAGMA table_info({table})"))]
+        except Exception:
+            return []
+    rows = conn.execute(
+        text("SELECT column_name FROM information_schema.columns "
+             "WHERE table_schema='public' AND table_name=:t"),
+        {"t": table}).fetchall()
+    return [r[0] for r in rows]
+
+
 def migrate_schema(engine=None):
     """create_all cannot ALTER existing tables, so add topic_id columns explicitly."""
     from sqlalchemy import text
     from backend.app.main import engine as _default
     eng = engine or _default
     with eng.begin() as conn:
-        existing = {r[0] for r in conn.execute(text("SELECT name FROM sqlite_master WHERE type='table'"))} if "sqlite" in str(eng.url) else None
         for tbl in ("syllabus_nodes", "lessons", "questions", "mastery"):
-            if existing is not None and tbl not in existing:
+            cols = _table_columns(conn, tbl)
+            if not cols:
                 continue  # fresh DB: create_all below builds the full schema
-            cols = [r[1] for r in conn.execute(text(f"PRAGMA table_info({tbl})"))]
             if "topic_id" not in cols:
                 conn.execute(text(f"ALTER TABLE {tbl} ADD COLUMN topic_id INTEGER"))
                 print(f"migrated: {tbl}.topic_id added")
