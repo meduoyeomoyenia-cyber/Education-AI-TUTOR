@@ -30,12 +30,15 @@ def _counts(eng):
 
 
 def test_empty_db_seeds_to_complete():
-    from backend.app.seed_all import ensure_seeded
+    from backend.app.seed_all import ensure_seeded, _expected_counts
     eng = _fresh_engine("empty")
     assert ensure_seeded(eng) == "seeded"
-    c = _counts(eng)
-    assert c["nodes"] == 720 and c["topics"] == 4
-    assert c["questions"] >= 9 and c["lessons"] >= 5
+    assert _counts(eng) == _expected_counts()
+    # production default path inserts zero test-fixture rows
+    with Session(eng) as s:
+        from backend.app.models import Lesson, Question
+        assert s.query(Question).filter(Question.source == "test-fixture").count() == 0
+        assert s.query(Lesson).filter(Lesson.source == "test-fixture").count() == 0
 
 
 def test_populated_db_is_left_alone():
@@ -56,23 +59,23 @@ def test_partial_failure_resumes_safely():
     from backend.app.models import SeedState
     import backend.app.seed_all as seed_all
     eng = _fresh_engine("partial")
-    real = seed_all.fixtures_run
+    real = seed_all.migrate_one
     calls = []
-    def boom(e=None):
+    def boom(subject, topic, e=None):
         calls.append(1)
         if len(calls) == 1:
             raise RuntimeError("simulated outage")
-        return real(e)
-    seed_all.fixtures_run = boom
+        return real(subject, topic, e)
+    seed_all.migrate_one = boom
     try:
         assert ensure_seeded(eng).startswith("failed")
         with Session(eng) as s:
             row = s.get(SeedState, "v1")
             assert row.status == "failed" and row.attempts == 1
         assert ensure_seeded(eng) == "seeded"  # resume completes (idempotent steps)
-        assert _counts(eng)["lessons"] >= 5
+        assert _counts(eng) == seed_all._expected_counts()
     finally:
-        seed_all.fixtures_run = real
+        seed_all.migrate_one = real
 
 
 def test_peer_active_and_max_attempts():

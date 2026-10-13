@@ -4,7 +4,17 @@ from sqlalchemy.orm import Session
 from backend.app.main import app, engine
 from backend.app.models import Attempt, Mastery
 from backend.app.mastery import topic_id_for_node
+import pytest
 c = TestClient(app)
+
+
+@pytest.fixture(scope="module", autouse=True)
+def _explicit_step2_fixtures():
+    """The NECO [TEST] row asserted below is created HERE, explicitly,
+    in the isolated suite DB — not by the production seed path."""
+    from content.step2_fixtures import run as fixtures_run
+    fixtures_run()
+    yield
 SLUG = "mathematics/number-bases"
 
 def test_topic_lookup():

@@ -20,24 +20,9 @@ import pytest
 
 @pytest.fixture(scope="session", autouse=True)
 def _seed_test_db():
-    """Deterministic seed mirroring dev.db content (nodes, vetted Qs/lessons,
-    4 migrated topics, STEP 2 fixtures). Attempts/mastery start empty.
-    Creates the full schema up front (lifespan only runs under `with TestClient`)."""
-    from backend.app.main import engine
-    from backend.app.models import Base
-    from backend.app.auth import Base as AuthBase
-    Base.metadata.create_all(engine)
-    AuthBase.metadata.create_all(engine)
-    from backend.app import seed as seedmod
-    from content.migrate_topic import migrate_schema, migrate_one
-    from content.step2_fixtures import run as fixtures_run
-    migrate_schema()
-    seedmod.run()
-    seedmod.seed_lessons()
-    for pair in [("Mathematics", "Number Bases"),
-                 ("Mathematics", "Algebra: Simultaneous Equations"),
-                 ("Biology", "Photosynthesis"),
-                 ("Chemistry", "Acids and Bases")]:
-        migrate_one(*pair)
-    fixtures_run()
+    """Suite DB mirrors dev.db content via the real ensure_seeded path, WITH
+    fixtures (tests assert on fixture rows). Attempts/mastery start empty.
+    Production uses the default include_fixtures=False path."""
+    from backend.app.seed_all import ensure_seeded
+    assert ensure_seeded(include_fixtures=True) == "seeded"
     yield

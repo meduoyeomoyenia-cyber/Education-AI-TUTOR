@@ -1,6 +1,8 @@
 """One-command production seed. Run once against the live DB, e.g. Render Shell:
     python -m app.seed_all
-Builds: schema + syllabus/questions/lessons + 4 reusable topics + fixtures.
+Builds: schema + syllabus/questions/lessons + 4 reusable topics.
+Test fixtures are OFF by default (production must never serve [TEST] rows);
+pass include_fixtures=True only for local/test databases.
 Idempotent: safe to re-run (existing rows are kept, never duplicated)."""
 import os
 import sys
@@ -20,6 +22,7 @@ TOPICS = [
 
 
 SEED_VERSION = "v1"
+SEED_VERSION_FIXTURES = "v1+fixtures"
 STALE_SECS = 900
 MAX_ATTEMPTS = 3
 
@@ -29,7 +32,7 @@ def _utcnow():
     return datetime.now(timezone.utc).replace(tzinfo=None)
 
 
-def _expected_counts():
+def _expected_counts(include_fixtures=False):
     """Derived from the actual seed files, never hardcoded."""
     import json
     from pathlib import Path
@@ -37,14 +40,17 @@ def _expected_counts():
     nodes = json.loads((content / "syllabus.json").read_text())
     vetted = json.loads((content / "questions.vetted.json").read_text())
     lessons = json.loads((content / "lessons.vetted.json").read_text(encoding="utf-8"))
-    return {"nodes": len(nodes), "questions": len(vetted) + 1, "lessons": len(lessons) + 2, "topics": len(TOPICS)}
+    return {"nodes": len(nodes),
+            "questions": len(vetted) + (1 if include_fixtures else 0),
+            "lessons": len(lessons) + (2 if include_fixtures else 0),
+            "topics": len(TOPICS)}
 
 
-def _checklist(s):
+def _checklist(s, include_fixtures=False):
     """True only when every stage's output is fully present (partial seeds fail)."""
     from sqlalchemy import func
     from backend.app.models import Lesson, Mastery, Question, SyllabusNode, Topic
-    exp = _expected_counts()
+    exp = _expected_counts(include_fixtures)
     got = {
         "nodes": s.query(func.count(SyllabusNode.id)).scalar(),
         "questions": s.query(func.count(Question.id)).scalar(),
@@ -93,17 +99,21 @@ def _finish(s, ok: bool, detail: str = "", version=SEED_VERSION):
     s.commit()
 
 
-def ensure_seeded(engine=None):
+def ensure_seeded(engine=None, include_fixtures=False):
     """Seed iff needed. Returns: already-seeded | seeded | peer-active |
-    needs-human | failed:<step>. Never raises, never deletes."""
+    needs-human | failed:<step>. Never raises, never deletes.
+    Fixtures default OFF so production can never serve [TEST] rows."""
     from sqlalchemy.orm import Session
     from backend.app.main import engine as _default
     from backend.app.models import Base, SeedState
+    from backend.app.auth import Base as AuthBase
     eng = engine or _default
+    version = SEED_VERSION_FIXTURES if include_fixtures else SEED_VERSION
     Base.metadata.create_all(eng)  # ensures seed_state itself exists
+    AuthBase.metadata.create_all(eng)  # otp_codes and friends
     with Session(eng) as s:
-        if not _claim(s):
-            row = s.get(SeedState, SEED_VERSION)
+        if not _claim(s, version):
+            row = s.get(SeedState, version)
             if row is None or row.status == "complete":
                 return "already-seeded"
             if row.status == "running":
@@ -115,16 +125,17 @@ def ensure_seeded(engine=None):
             seedmod.seed_lessons(eng)
             for subject, topic in TOPICS:
                 migrate_one(subject, topic, eng)
-            fixtures_run(eng)
+            if include_fixtures:
+                fixtures_run(eng)
         except Exception as e:
-            _finish(s, False, f"failed: {type(e).__name__}: {e}")
+            _finish(s, False, f"failed: {type(e).__name__}: {e}", version)
             return f"failed:{type(e).__name__}"
-        complete, got = _checklist(s)
-        _finish(s, complete, f"counts={got}" if complete else f"incomplete counts={got}")
+        complete, got = _checklist(s, include_fixtures)
+        _finish(s, complete, f"counts={got}" if complete else f"incomplete counts={got}", version)
         return "seeded" if complete else "failed:checklist"
 
 
-def run(engine=None):
+def run(engine=None, include_fixtures=False):
     from backend.app.main import engine as _default
     eng = engine or _default
     migrate_schema(eng)
@@ -132,7 +143,8 @@ def run(engine=None):
     seedmod.seed_lessons(eng)
     for subject, topic in TOPICS:
         migrate_one(subject, topic, eng)
-    fixtures_run(eng)
+    if include_fixtures:
+        fixtures_run(eng)
     print("seed_all complete")
 
 

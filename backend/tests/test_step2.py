@@ -1,4 +1,5 @@
 """STEP 2 proof: reusable Topic -> one Lesson -> multi-exam Question Bank (3 subjects)."""
+import pytest
 from fastapi.testclient import TestClient
 from sqlalchemy import select
 from sqlalchemy.orm import Session
@@ -6,6 +7,15 @@ from backend.app.main import app, engine
 from backend.app.models import Lesson, Question, Topic, Attempt, SyllabusNode
 from backend.app.mastery import topic_id_for_node
 c = TestClient(app)
+
+
+@pytest.fixture(scope="module", autouse=True)
+def _explicit_step2_fixtures():
+    """NECO question + stub lessons this file asserts on are created HERE,
+    explicitly, in the isolated suite DB — not by the production seed path."""
+    from content.step2_fixtures import run as fixtures_run
+    fixtures_run()
+    yield
 
 SIM = "mathematics/algebra-simultaneous-equations"
 PHO = "biology/photosynthesis"
